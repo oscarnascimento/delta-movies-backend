@@ -1,0 +1,3625 @@
+{
+  "movies": [
+    {
+      "Title": "World War Z",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "21 Jun 2013",
+      "Runtime": "116 min",
+      "Genre": "Action, Adventure, Horror, Sci-Fi",
+      "Director": "Marc Forster",
+      "Writer": "Matthew Michael Carnahan (screenplay), Drew Goddard (screenplay), Damon Lindelof (screenplay), Matthew Michael Carnahan (screen story), J. Michael Straczynski (screen story), Max Brooks (based on the novel by)",
+      "Actors": "Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",
+      "Plot": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+      "Language": "English, Spanish, Hebrew, Arabic",
+      "Country": "USA, UK, Malta",
+      "Awards": "3 wins & 24 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "7.0",
+      "imdbVotes": "568,603",
+      "imdbID": "tt0816711",
+      "Type": "movie",
+      "DVD": "17 Sep 2013",
+      "BoxOffice": "$202,351,611",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Thor: The Dark World",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "08 Nov 2013",
+      "Runtime": "112 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Alan Taylor",
+      "Writer": "Christopher L. Yost (screenplay by), Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Don Payne (story by), Robert Rodat (story by), Stan Lee (based on the Marvel comics by), Larry Lieber (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Walter Simonson (character created by: Malekith)",
+      "Actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
+      "Plot": "Thousands of years ago, a race of beings known as Dark Elves tried to send the universe into darkness by using a weapon known as the Aether. Warriors from Asgard stop them but their leader Malekith escapes to wait for another opportunity. The warriors find the Aether and since it cannot be destroyed, they try to hide it. In the present day, Jane Foster awaits the return of Thor although it has been two years since they last saw once another. In the meantime, Thor has been trying to bring peace to the nine realms. Jane discovers an anomaly similar to the one that brought Thor to Earth. She goes to investigate, finds a wormhole, and is sucked into it. Back on Asgard, Thor wishes to return to Earth but his father, Odin refuses to let him. Thor learns from Heimdall, who can see into all of the realms, that Jane disappeared. Thor then returns to Earth just as Jane reappears. However, when some policemen try to arrest her, an unknown energy repulses them. Thor then brings Jane to Asgard to find out what happened to her. When the energy is released again, they discover that when Jane disappeared, she crossed paths with the Aether and it entered her. Malekith, upon sensing that the time to strike is now, seeks out the Aether. He attacks Asgard and Thor's mother Frigga is killed protecting Jane. Odin wants to keep Jane on Asgard so that Malekith will come. Thor disagrees with his plan, so with his cohorts, he decides to take Jane away. He enlists the aid of his brother, Loki. Unfortunately, Loki's motivations remain unknown.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 wins & 21 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ],
+      "Metascore": "54",
+      "imdbRating": "6.9",
+      "imdbVotes": "561,868",
+      "imdbID": "tt1981115",
+      "Type": "movie",
+      "DVD": "25 Feb 2014",
+      "BoxOffice": "$206,360,018",
+      "Production": "Walt Disney Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jurassic World",
+      "Year": "2015",
+      "Rated": "PG-13",
+      "Released": "12 Jun 2015",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Colin Trevorrow",
+      "Writer": "Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+      "Plot": "22 years after the original Jurassic Park failed, the new park (also known as Jurassic World) is open for business. After years of studying genetics the scientists on the park genetically engineer a new breed of dinosaur. When everything goes horribly wrong, will our heroes make it off the island?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "15 wins & 57 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.0",
+      "imdbVotes": "553,791",
+      "imdbID": "tt0369610",
+      "Type": "movie",
+      "DVD": "20 Oct 2015",
+      "BoxOffice": "$528,757,749",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Lost World: Jurassic Park",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "23 May 1997",
+      "Runtime": "129 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Steven Spielberg",
+      "Writer": "Michael Crichton (novel), David Koepp (screenplay)",
+      "Actors": "Jeff Goldblum, Julianne Moore, Pete Postlethwaite, Arliss Howard",
+      "Plot": "A research team is sent to an island miles away from the previous home of Jurassic Park, to document and photograph the now liberated dinosaurs. However, InGen the BioEngineering company has sent another larger team to the same island to catch, sedate, and transport some dinosaurs to San Diego where they will be used in a new Jurassic Park location. But life always finds a way. Will both teams return to the mainland with successful findings? Or will another tragedy occur?",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 4 wins & 27 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "54%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "6.6",
+      "imdbVotes": "356,711",
+      "imdbID": "tt0119567",
+      "Type": "movie",
+      "DVD": "10 Oct 2000",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Scott Pilgrim vs. the World",
+      "Year": "2010",
+      "Rated": "PG-13",
+      "Released": "13 Aug 2010",
+      "Runtime": "112 min",
+      "Genre": "Action, Comedy, Fantasy, Romance",
+      "Director": "Edgar Wright",
+      "Writer": "Michael Bacall (screenplay), Edgar Wright (screenplay), Bryan Lee O'Malley (Oni Press graphic novels)",
+      "Actors": "Michael Cera, Kieran Culkin, Anna Kendrick, Alison Pill",
+      "Plot": "Scott Pilgrim plays in a band which aspires to success. He dates Knives Chau, a high-school girl five years younger, and he hasn't recovered from being dumped by his former girlfriend, now a success with her own band. When Scott falls for Ramona Flowers, he has trouble breaking up with Knives and tries to romance Ramona. As if juggling two women wasn't enough, Ramona comes with baggage: seven ex-lovers, with each of whom Scott must do battle to the death in order to win Ramona.",
+      "Language": "English",
+      "Country": "USA, UK, Canada, Japan",
+      "Awards": "17 wins & 64 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "7.5",
+      "imdbVotes": "351,334",
+      "imdbID": "tt0446029",
+      "Type": "movie",
+      "DVD": "09 Nov 2010",
+      "BoxOffice": "$31,494,270",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jurassic World: Fallen Kingdom",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "22 Jun 2018",
+      "Runtime": "128 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.A. Bayona",
+      "Writer": "Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)",
+      "Actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
+      "Plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "Language": "English, Russian",
+      "Country": "USA",
+      "Awards": "4 wins & 24 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "48%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "6.2",
+      "imdbVotes": "237,093",
+      "imdbID": "tt4881806",
+      "Type": "movie",
+      "DVD": "18 Sep 2018",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Master and Commander: The Far Side of the World",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "14 Nov 2003",
+      "Runtime": "138 min",
+      "Genre": "Action, Adventure, Drama, History, War",
+      "Director": "Peter Weir",
+      "Writer": "Patrick O'Brian (novels), Peter Weir (screenplay), John Collee (screenplay)",
+      "Actors": "Russell Crowe, Paul Bettany, James D'Arcy, Edward Woodall",
+      "Plot": "In April 1805 during the Napoleonic Wars, H.M.S. Surprise, a British frigate, is under the command of Captain Jack Aubrey. Aubrey and the Surprise's current orders are to track and capture or destroy a French privateer named Acheron. The Acheron is currently in the Atlantic off South America headed toward the Pacific in order to extend Napoleon's reach of the wars. This task will be a difficult one as Aubrey quickly learns in an initial battle with the Acheron that it is a bigger and faster ship than the Surprise, which puts the Surprise at a disadvantage. Aubrey's single-mindedness in this seemingly impossible pursuit puts him at odds with the Surprise's doctor and naturalist, Stephen Maturin, who is also Aubrey's most trusted advisor on board and closest friend. Facing other internal obstacles which have resulted in what they consider a string of bad luck, Aubrey ultimately uses Maturin's scientific exploits to figure out a way to achieve his and the ship's seemingly impossible goal.",
+      "Language": "English, French, Portuguese",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 21 wins & 90 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjYyMDM5NV5BMl5BanBnXkFtZTYwOTU5MDY2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "7.4",
+      "imdbVotes": "192,689",
+      "imdbID": "tt0311113",
+      "Type": "movie",
+      "DVD": "20 Apr 2004",
+      "BoxOffice": "$92,100,000",
+      "Production": "20th Century Fox",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World is Not Enough",
+      "Year": "1999",
+      "Rated": "PG-13",
+      "Released": "19 Nov 1999",
+      "Runtime": "128 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Michael Apted",
+      "Writer": "Neal Purvis (story), Robert Wade (story), Neal Purvis (screenplay), Robert Wade (screenplay), Bruce Feirstein (screenplay)",
+      "Actors": "Pierce Brosnan, Sophie Marceau, Robert Carlyle, Denise Richards",
+      "Plot": "James Bond is back. An oil tycoon is murdered in MI6 and Bond is sent to protect his daughter. Renard, who has a bullet lodged in his brain from a previous agent, is secretly planning the destruction of a pipeline. Bond gains a hand from a research scientist, Dr. Christmas Jones who witnesses the action which happens when Bond meets up with Renard, but Bond becomes suspicious about Elektra King, especially when Bond's boss, M goes missing. Bond must work quickly to prevent Renard from destroying Europe.",
+      "Language": "English, Russian, Spanish",
+      "Country": "UK, USA",
+      "Awards": "7 wins & 12 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzUyNjg0MV5BMl5BanBnXkFtZTcwNDY5MDg0NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "52%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "6.4",
+      "imdbVotes": "179,414",
+      "imdbID": "tt0143145",
+      "Type": "movie",
+      "DVD": "16 May 2000",
+      "BoxOffice": "N/A",
+      "Production": "United Artists",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Team America: World Police",
+      "Year": "2004",
+      "Rated": "R",
+      "Released": "15 Oct 2004",
+      "Runtime": "98 min",
+      "Genre": "Action, Comedy",
+      "Director": "Trey Parker",
+      "Writer": "Trey Parker, Matt Stone, Pam Brady",
+      "Actors": "Trey Parker, Matt Stone, Kristen Miller, Masasa Moyo",
+      "Plot": "The North American counter-terrorism force Team America attacks a group of terrorists in Paris. Later, the leader of the organization, Spottswoode, invites the famous Broadway actor Gary Johnston to join his world police and work undercover in Cairo, infiltrating a terrorist organization in the hope they will disclose their plan of destroying the world. Team America destroy the cell of terrorists, but then the Panama Canal is attacked by the criminals as a payback. Gary feels responsible for the death of many innocents and leaves the counter-terrorism organization. When the leader of North Korea, Kim Jong Il, joins a group of pacifist actors and actresses with the intention of using weapons of massive destruction, Team America tries to avoid the destruction of the world.",
+      "Language": "English, French, Klingon, Korean, Arabic",
+      "Country": "USA, Germany",
+      "Awards": "1 win & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.2",
+      "imdbVotes": "153,841",
+      "imdbID": "tt0372588",
+      "Type": "movie",
+      "DVD": "17 May 2005",
+      "BoxOffice": "$32,700,000",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Wayne's World",
+      "Year": "1992",
+      "Rated": "PG-13",
+      "Released": "14 Feb 1992",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Music",
+      "Director": "Penelope Spheeris",
+      "Writer": "Mike Myers (based on characters created by), Mike Myers, Bonnie Turner, Terry Turner",
+      "Actors": "Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere",
+      "Plot": "Wayne is still living at home. He has a world class collection of name tags from jobs he's tried, but he does have his own public access TV show. A local station decides to hire him and his sidekick, Garth, to do their show professionally and Wayne & Garth find that it is no longer the same. Wayne falls for a bass guitarist and uses his and Garth's Video contacts to help her career along, knowing that Ben Oliver, the sleazy advertising guy who is ruining their show will probably take her away from him if they fail.",
+      "Language": "English, Cantonese",
+      "Country": "USA",
+      "Awards": "4 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAyNDY3MjUtYmJjYS00Zjc5LTlhM2MtNzgzYjNlOWVkZjkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "7.0",
+      "imdbVotes": "137,061",
+      "imdbID": "tt0105793",
+      "Type": "movie",
+      "DVD": "16 Nov 1999",
+      "BoxOffice": "N/A",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The End of the F***ing World",
+      "Year": "2017–",
+      "Rated": "TV-MA",
+      "Released": "24 Oct 2017",
+      "Runtime": "25 min",
+      "Genre": "Adventure, Comedy, Crime, Drama, Romance, Thriller",
+      "Director": "N/A",
+      "Writer": "Jonathan Entwistle",
+      "Actors": "Jessica Barden, Alex Lawther, Steve Oram, Christine Bottomley",
+      "Plot": "James and Alyssa are rebel teenagers running away from home. From dreary suburbia to the epic landscapes of the north, they're on a quest to find a better life with Alyssa's idol - her estranged father. Beneath the black humour and the anarchy, is an emotional coming-of-age journey: two outcast teenagers from a disillusioned generation come together and learn what it feels like to make a human connection for the very first time. Based on the comic by Charles S Forsman.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "Nominated for 1 Primetime Emmy. Another 4 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "113,910",
+      "imdbID": "tt6257970",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Ghost World",
+      "Year": "2001",
+      "Rated": "R",
+      "Released": "21 Sep 2001",
+      "Runtime": "111 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Terry Zwigoff",
+      "Writer": "Daniel Clowes (comic book), Daniel Clowes, Terry Zwigoff",
+      "Actors": "Thora Birch, Scarlett Johansson, Steve Buscemi, Brad Renfro",
+      "Plot": "This is the story of Enid and Rebecca after they finish the high school. Both have problems relating to people and they spend their time hanging around and bothering creeps. When they meet Seymour who is a social outsider who loves to collect old 78 records, Enid's life will change forever.",
+      "Language": "English",
+      "Country": "USA, UK, Germany",
+      "Awards": "Nominated for 1 Oscar. Another 28 wins & 55 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWYwODRlYjgtODUxNy00YmMyLWE3NWYtNTYzZmUwNDJiZGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "7.3",
+      "imdbVotes": "108,731",
+      "imdbID": "tt0162346",
+      "Type": "movie",
+      "DVD": "05 Feb 2002",
+      "BoxOffice": "$4,694,484",
+      "Production": "United Artists",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Seeking a Friend for the End of the World",
+      "Year": "2012",
+      "Rated": "R",
+      "Released": "22 Jun 2012",
+      "Runtime": "101 min",
+      "Genre": "Adventure, Comedy, Drama, Romance, Sci-Fi",
+      "Director": "Lorene Scafaria",
+      "Writer": "Lorene Scafaria",
+      "Actors": "Steve Carell, Keira Knightley, Adam Brody, Connie Britton",
+      "Plot": "An asteroid named \"Matilda\" is on a collision course towards Earth and in three weeks the world will come to an absolute end. What would you do if your life and the world were doomed? One man decides to spend his time searching for his long lost love from high school during the coming catastrophe.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MDQ1NzE3N15BMl5BanBnXkFtZTcwMjA0MDkzNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "55%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "6.7",
+      "imdbVotes": "103,773",
+      "imdbID": "tt1307068",
+      "Type": "movie",
+      "DVD": "23 Oct 2012",
+      "BoxOffice": "$7,100,000",
+      "Production": "Focus Features",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "How to Train Your Dragon: The Hidden World",
+      "Year": "2019",
+      "Rated": "PG",
+      "Released": "22 Feb 2019",
+      "Runtime": "104 min",
+      "Genre": "Animation, Action, Adventure, Family, Fantasy",
+      "Director": "Dean DeBlois",
+      "Writer": "Dean DeBlois, Cressida Cowell (based upon the \"How to Train Your Dragon\" book series by)",
+      "Actors": "Jay Baruchel, America Ferrera, F. Murray Abraham, Cate Blanchett",
+      "Plot": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+      "Language": "English",
+      "Country": "USA, Japan",
+      "Awards": "Nominated for 1 Golden Globe. Another 4 wins & 49 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.5",
+      "imdbVotes": "83,501",
+      "imdbID": "tt2386490",
+      "Type": "movie",
+      "DVD": "21 May 2019",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Around the World in 80 Days",
+      "Year": "2004",
+      "Rated": "PG",
+      "Released": "16 Jun 2004",
+      "Runtime": "120 min",
+      "Genre": "Action, Adventure, Comedy, Family, Western",
+      "Director": "Frank Coraci",
+      "Writer": "Jules Verne (novel), David N. Titcher (screenplay), David Benullo (screenplay), David Andrew Goldstein (screenplay)",
+      "Actors": "Jackie Chan, Steve Coogan, Cécile de France, Robert Fyfe",
+      "Plot": "Set in 1890, the story focuses on Passepartout, a Chinese thief who steals a valuable jade Buddha and then seeks refuge in the traveling companionship of an eccentric London inventor and adventurer, Phileas Fogg, who has taken on a bet with members of his gentlemen's club that he can make it around the world in a mere 80 days, using a variety of means of transportation, like boats, trains, balloons, elephants, etc. Along the way, Passepartout uses his amazing martial arts abilities to defend Fogg from the many dangers they face.. One major threat to their adventure is a detective that's following them. Why? Just as Fogg and Passeportout left London, a major bank was robbed, with Fogg suspected of using the \"around the world\" trip as an excuse to escape.. Their path from London and back includes stops in Paris, Turkey, India, China and USA.",
+      "Language": "English, Cantonese, French, German, Hindi, Turkish",
+      "Country": "USA, Germany, Ireland, UK",
+      "Awards": "2 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MTkxMjQ2NF5BMl5BanBnXkFtZTcwNzE0NzUyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "32%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "Metascore": "49",
+      "imdbRating": "5.9",
+      "imdbVotes": "80,720",
+      "imdbID": "tt0327437",
+      "Type": "movie",
+      "DVD": "02 Nov 2004",
+      "BoxOffice": "N/A",
+      "Production": "Buena Vista Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The New World",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "20 Jan 2006",
+      "Runtime": "135 min",
+      "Genre": "Biography, Drama, History, Romance",
+      "Director": "Terrence Malick",
+      "Writer": "Terrence Malick",
+      "Actors": "Colin Farrell, Q'orianka Kilcher, Christopher Plummer, Christian Bale",
+      "Plot": "Captain Smith is spared his mutinous hanging sentence after captain Newport's ship arrives in 1607 to found Jamestown, an English colony in Virginia. The initially friendly natives, who have no personal property concept, turn hostile after a 'theft' is 'punished' violently on the spot. During an armed exploration, Smith is captured, but spared when the chief's favorite daughter Pocahontas pleads for the stranger who soon becomes her lover and learns to love their naive 'savage' way of harmonious life. Ultimately he returns to the grim fort, which would starve hadn't she arranged for Indian generosity. Alas, each side soon brands their own lover a traitor, so she is banished and he flogged as introduction to slavish toiling. Changes turn again, leading Smith to accept a northern-more mission and anglicized Pocahontas, believing him dead, becoming the mother of aristocratic new lover John Rolfe's son. They'll meet again for a finale in England.",
+      "Language": "English, Algonquin",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 1 Oscar. Another 6 wins & 32 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdjNjQ5ZTAtODJlZi00MzcyLWJjY2UtNDZhNTJkYjlkNGY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "6.7",
+      "imdbVotes": "79,908",
+      "imdbID": "tt0402399",
+      "Type": "movie",
+      "DVD": "09 May 2006",
+      "BoxOffice": "$12,465,566",
+      "Production": "New Line Cinema",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sky Captain and the World of Tomorrow",
+      "Year": "2004",
+      "Rated": "PG",
+      "Released": "17 Sep 2004",
+      "Runtime": "106 min",
+      "Genre": "Action, Adventure, Crime, Fantasy, Mystery, Sci-Fi, Thriller",
+      "Director": "Kerry Conran",
+      "Writer": "Kerry Conran",
+      "Actors": "Gwyneth Paltrow, Jude Law, Giovanni Ribisi, Michael Gambon",
+      "Plot": "In 1939, an intrepid reporter in New York City makes a connection between the story she's covering -- of famous scientists suddenly disappearing around the world, and a recent attack on the city by giant robots. Determined to find the solution to these happenings, she seeks the help of her ex-boyfriend, the captain of a mercenary legion of pilots. The two are investigating the case when the robots attack the city again, though in a stroke of luck, Sky Captain's right-hand man is able to locate their source. They then set off on an adventure in search of the evil mastermind behind these schemes, who is bent on creating a utopia and destroying the current world.",
+      "Language": "English, Tibetan, German",
+      "Country": "USA, UK, Italy",
+      "Awards": "8 wins & 19 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDQzMDA1NF5BMl5BanBnXkFtZTcwNTU3ODAzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "6.0",
+      "imdbVotes": "79,614",
+      "imdbID": "tt0346156",
+      "Type": "movie",
+      "DVD": "25 Jan 2005",
+      "BoxOffice": "$37,600,000",
+      "Production": "Paramount",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "World Trade Center",
+      "Year": "2006",
+      "Rated": "PG-13",
+      "Released": "09 Aug 2006",
+      "Runtime": "129 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "Oliver Stone",
+      "Writer": "Andrea Berloff, John McLoughlin (true story), Donna McLoughlin (true story), William Jimeno (true story), Allison Jimeno (true story)",
+      "Actors": "Nicolas Cage, Maria Bello, Connor Paolo, Anthony Piccininni",
+      "Plot": "On September, 11th 2001, after the terrorist attack to the World Trade Center, the building collapses over the rescue team from the Port Authority Police Department. Will Jimeno and his sergeant John McLoughlin are found alive trapped under the wreckage while the rescue teams fight to save them.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "4 wins & 12 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIxMzE5ODEwOV5BMl5BanBnXkFtZTcwMzM3MzIzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "5.9",
+      "imdbVotes": "75,331",
+      "imdbID": "tt0469641",
+      "Type": "movie",
+      "DVD": "29 Jan 2007",
+      "BoxOffice": "$70,236,496",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Wayne's World 2",
+      "Year": "1993",
+      "Rated": "PG-13",
+      "Released": "10 Dec 1993",
+      "Runtime": "95 min",
+      "Genre": "Comedy, Music",
+      "Director": "Stephen Surjik",
+      "Writer": "Mike Myers (characters), Mike Myers, Bonnie Turner, Terry Turner",
+      "Actors": "Mike Myers, Dana Carvey, Christopher Walken, Tia Carrere",
+      "Plot": "Wayne is back, this time trying to organize a rock festival with help from friend Garth and the spirit of Jim Morrison (Doors). Meanwhile, his girlfriend's manager is busy trying to woo her away from Wayne and move her to LA. Life gets interesting when Wayne must rush from the concert to try and stop the wedding. Aerosmith are featured at the concert.",
+      "Language": "English, Cantonese",
+      "Country": "USA",
+      "Awards": "3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdhODcyMGMtMzg3NC00MTViLWJiZjktZWIyY2NhNWZhYzUxXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "61%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "6.2",
+      "imdbVotes": "73,739",
+      "imdbID": "tt0108525",
+      "Type": "movie",
+      "DVD": "10 Jul 2001",
+      "BoxOffice": "N/A",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Secret World of Arrietty",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "17 Feb 2012",
+      "Runtime": "94 min",
+      "Genre": "Animation, Adventure, Family, Fantasy",
+      "Director": "Hiromasa Yonebayashi",
+      "Writer": "Mary Norton (novel), Hayao Miyazaki (screenplay), Keiko Niwa (screenplay)",
+      "Actors": "Moises Arias, Bridgit Mendler, David Henrie, Will Arnett",
+      "Plot": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items that they borrow from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+      "Language": "Japanese, English, French",
+      "Country": "Japan",
+      "Awards": "11 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY2OWYyNmEtNzYwMy00OGU4LWI4YzgtMWZjZDUwYWZlYjA3XkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.6",
+      "imdbVotes": "70,441",
+      "imdbID": "tt1568921",
+      "Type": "movie",
+      "DVD": "22 May 2012",
+      "BoxOffice": "$19,192,510",
+      "Production": "Walt Disney Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Perfect World",
+      "Year": "1993",
+      "Rated": "PG-13",
+      "Released": "24 Nov 1993",
+      "Runtime": "138 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Clint Eastwood",
+      "Writer": "John Lee Hancock",
+      "Actors": "Kevin Costner, Clint Eastwood, Laura Dern, T.J. Lowther",
+      "Plot": "After escaping from a Huntsville prison, convict Butch Haynes and his partner Terry Pugh kidnap a young boy, Philip Perry, and flee across Texas. As they travel together, Butch and Philip discover common bonds and suffer the abuses of the outside \"Perfect World.\" In pursuit is Texas Ranger \"Red\" Garnett and criminologist Sally Gerber.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcyYmU1NzYtMmJiYy00NjJlLWE5ZjMtZWNkOWNjZmQ4MzIyXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.6",
+      "imdbVotes": "69,505",
+      "imdbID": "tt0107808",
+      "Type": "movie",
+      "DVD": "01 Oct 2002",
+      "BoxOffice": "N/A",
+      "Production": "Warner Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "All the Money in the World",
+      "Year": "2017",
+      "Rated": "R",
+      "Released": "25 Dec 2017",
+      "Runtime": "132 min",
+      "Genre": "Biography, Crime, Drama, Mystery, Thriller",
+      "Director": "Ridley Scott",
+      "Writer": "David Scarpa, John Pearson (based on the book 'Painfully Rich: The Outrageous Fortune and Misfortunes of the Heirs of J. Paul Getty' by)",
+      "Actors": "Michelle Williams, Christopher Plummer, Mark Wahlberg, Romain Duris",
+      "Plot": "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.",
+      "Language": "English, Italian, Arabic",
+      "Country": "USA, Italy, UK",
+      "Awards": "Nominated for 1 Oscar. Another 14 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY3Mjg0OTc1OF5BMl5BanBnXkFtZTgwNDU0MzAyNDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "6.8",
+      "imdbVotes": "65,899",
+      "imdbID": "tt5294550",
+      "Type": "movie",
+      "DVD": "10 Apr 2018",
+      "BoxOffice": "$20,153,135",
+      "Production": "TriStar Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "History of the World: Part I",
+      "Year": "1981",
+      "Rated": "R",
+      "Released": "12 Jun 1981",
+      "Runtime": "92 min",
+      "Genre": "Comedy, History",
+      "Director": "Mel Brooks",
+      "Writer": "Mel Brooks",
+      "Actors": "Mel Brooks, Dom DeLuise, Madeline Kahn, Harvey Korman",
+      "Plot": "From the dawn of man to the distant future, mankind's evolution (or lack thereof) is traced. Often ridiculous but never serious, we learn the truth behind the Roman Emperor, we learn what REALLY happened at the Last Supper, the circumstances that surrounded the French Revolution, how to test eunuchs, and what kind of shoes the Spanish Inquisitor wore.",
+      "Language": "English, Latin, French",
+      "Country": "USA",
+      "Awards": "1 win & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4ZGUyYjUtYzVlMS00YWFmLWFjM2UtYTk5YjFlZmJhNDQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ],
+      "Metascore": "47",
+      "imdbRating": "6.9",
+      "imdbVotes": "43,689",
+      "imdbID": "tt0082517",
+      "Type": "movie",
+      "DVD": "05 Oct 1999",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox Film Corporation",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "I Don't Feel at Home in This World Anymore.",
+      "Year": "2017",
+      "Rated": "TV-MA",
+      "Released": "24 Feb 2017",
+      "Runtime": "93 min",
+      "Genre": "Comedy, Crime, Drama, Thriller",
+      "Director": "Macon Blair",
+      "Writer": "Macon Blair",
+      "Actors": "Melanie Lynskey, Chris Doubek, Marilyn Faith Hickey, Jared Roylance",
+      "Plot": "When a depressed woman is burgled, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbour. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 wins & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5Zjg5ZWEtYmQwOS00NmFmLTgxYzktYTJkZmY3OGM4NDQyXkEyXkFqcGdeQXVyNjk4NjM5Nzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "6.9",
+      "imdbVotes": "41,775",
+      "imdbID": "tt5710514",
+      "Type": "movie",
+      "DVD": "24 Feb 2017",
+      "BoxOffice": "N/A",
+      "Production": "Film Science",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "In a Better World",
+      "Year": "2010",
+      "Rated": "R",
+      "Released": "26 Aug 2010",
+      "Runtime": "118 min",
+      "Genre": "Drama, Romance",
+      "Director": "Susanne Bier",
+      "Writer": "Anders Thomas Jensen (screenplay), Susanne Bier (story), Anders Thomas Jensen (story), Per Nielsen (supervising writer)",
+      "Actors": "Mikael Persbrandt, Wil Johnson, Eddy Kimani, Emily Mulaya",
+      "Plot": "Anton is a doctor who commutes between his home in an idyllic town in Denmark, and his work at an African refugee camp. In these two very different worlds, he and his family are faced with conflicts that lead them to difficult choices between revenge and forgiveness. Anton and his wife Marianne, who have two young sons, are separated and struggling with the possibility of divorce. Their older, ten-year-old son Elias is being bullied at school, until he is defended by Christian, a new boy who has just moved from London with his father, Claus. Christian's mother recently lost her battle with cancer, and Christian is greatly troubled by her death. Elias and Christian quickly form a strong bond, but when Christian involves Elias in a dangerous act of revenge with potentially tragic consequences, their friendship is tested and lives are put in danger. Ultimately, it is their parents who are left to help them come to terms with the complexity of human emotions, pain and empathy.",
+      "Language": "Danish, Swedish, English, Arabic",
+      "Country": "Denmark, Sweden",
+      "Awards": "Won 1 Oscar. Another 12 wins & 24 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY2OTE5MzE0Nl5BMl5BanBnXkFtZTcwNDAyOTc2NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "7.6",
+      "imdbVotes": "37,112",
+      "imdbID": "tt1340107",
+      "Type": "movie",
+      "DVD": "30 Aug 2011",
+      "BoxOffice": "$1,007,808",
+      "Production": "Sony Pictures Classics",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Boy Meets World",
+      "Year": "1993–2000",
+      "Rated": "TV-G",
+      "Released": "24 Sep 1993",
+      "Runtime": "23 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "N/A",
+      "Writer": "Michael Jacobs, April Kelly",
+      "Actors": "Ben Savage, William Daniels, Betsy Randle, Will Friedle",
+      "Plot": "In this TV series we see the \"adventures\" and goofs of a young schoolboy named Cory Matthews and his best friend Shawn Hunter. At school, they aren't very popular with girls, and they have enemies like Harley, Joey, and Frankie. They also get often in trouble with Mr. Feeny, the school's funny principal.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "5 wins & 17 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMjAyNzAxNl5BMl5BanBnXkFtZTcwNjk1MDk5NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "36,943",
+      "imdbID": "tt0105958",
+      "Type": "series",
+      "totalSeasons": "7",
+      "Response": "True"
+    },
+    {
+      "Title": "It's a Mad Mad Mad Mad World",
+      "Year": "1963",
+      "Rated": "G",
+      "Released": "03 Dec 1963",
+      "Runtime": "205 min",
+      "Genre": "Action, Adventure, Comedy, Crime",
+      "Director": "Stanley Kramer",
+      "Writer": "William Rose (story), Tania Rose (story), William Rose (screenplay), Tania Rose (screenplay)",
+      "Actors": "Spencer Tracy, Milton Berle, Sid Caesar, Buddy Hackett",
+      "Plot": "After a long prison sentence Smiler Grogan is heading at high speed to a California park where he hid $350,000 from a job 15 years previously. He accidentally careens over a cliff in view of four cars whose occupants go down to help. The dying Grogan gives details of where the money is buried and when the witnesses fail to agree on sharing the cash, a crazy chase develops across the state.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 2 wins & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YyYjUzYmMtZDNmMy00ODRmLWExOTYtMzg5NzQ5NzZhNjA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.5",
+      "imdbVotes": "35,624",
+      "imdbID": "tt0057193",
+      "Type": "movie",
+      "DVD": "18 Sep 2001",
+      "BoxOffice": "N/A",
+      "Production": "United Artists",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Spice World",
+      "Year": "1997",
+      "Rated": "PG",
+      "Released": "23 Jan 1998",
+      "Runtime": "93 min",
+      "Genre": "Comedy, Family, Music",
+      "Director": "Bob Spiers",
+      "Writer": "Spice Girls (idea), Kim Fuller (idea), Kim Fuller, Jamie Curtis (additional writing)",
+      "Actors": "Mel B, Emma Bunton, Melanie C, Geri Horner",
+      "Plot": "Climb aboard the double decker Spice Bus and get ready for a madcap musical adventure with the sexy phenomenons of pop - the Spice Girls. An encounter with extra-terrestrials, a night in a haunted castle, and a moment of truth in a maternity ward are just a few of the escapades the endeavored upon as the Girls gear up for their first live concert at London's Royal Albert Hall.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "3 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FiZjA1ODQtOWNjMC00ZmM4LThiNjktZmQ3YjBhMGQ2NzI2XkEyXkFqcGdeQXVyODU4NTYwMDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "35%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "32/100"
+        }
+      ],
+      "Metascore": "32",
+      "imdbRating": "3.5",
+      "imdbVotes": "32,191",
+      "imdbID": "tt0120185",
+      "Type": "movie",
+      "DVD": "16 Jun 1998",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "In a World...",
+      "Year": "2013",
+      "Rated": "R",
+      "Released": "13 Sep 2013",
+      "Runtime": "93 min",
+      "Genre": "Comedy",
+      "Director": "Lake Bell",
+      "Writer": "Lake Bell",
+      "Actors": "Lake Bell, Rob Corddry, Alexandra Holden, Eva Longoria",
+      "Plot": "An underachieving vocal coach is motivated by her father, the king of movie-trailer voice-overs, to pursue her aspirations of becoming a voiceover star. Amidst pride, sexism and family dysfunction, she sets out to change the voice of a generation.",
+      "Language": "English, Russian",
+      "Country": "USA",
+      "Awards": "3 wins & 17 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzE0Mzg3M15BMl5BanBnXkFtZTcwNzY2MDY3OQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "6.7",
+      "imdbVotes": "29,788",
+      "imdbID": "tt2294677",
+      "Type": "movie",
+      "DVD": "21 Jan 2014",
+      "BoxOffice": "$2,041,184",
+      "Production": "Roadside Attractions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World According to Garp",
+      "Year": "1982",
+      "Rated": "R",
+      "Released": "13 Aug 1982",
+      "Runtime": "136 min",
+      "Genre": "Comedy, Drama",
+      "Director": "George Roy Hill",
+      "Writer": "John Irving (novel), Steve Tesich (screenplay)",
+      "Actors": "Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow",
+      "Plot": "Based on the John Irving novel, this film chronicles the life of T S Garp, and his mother, Jenny. Whilst Garp sees himself as a \"serious\" writer, Jenny writes a feminist manifesto at an opportune time, and finds herself as a magnet for all manner of distressed women.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 5 wins & 4 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MzQ3NTQzOV5BMl5BanBnXkFtZTgwNDE0ODg4MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "7.2",
+      "imdbVotes": "23,920",
+      "imdbID": "tt0084917",
+      "Type": "movie",
+      "DVD": "03 Apr 2001",
+      "BoxOffice": "N/A",
+      "Production": "Warner Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Thing from Another World",
+      "Year": "1951",
+      "Rated": "Not Rated",
+      "Released": "07 Apr 1951",
+      "Runtime": "87 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Christian Nyby, Howard Hawks",
+      "Writer": "Charles Lederer (screenplay), John W. Campbell Jr. (based on the story \"Who Goes There?\" by)",
+      "Actors": "Margaret Sheridan, Kenneth Tobey, Robert Cornthwaite, Douglas Spencer",
+      "Plot": "Scientists at an Arctic research station discover a spacecraft buried in the ice. Upon closer examination, they discover the frozen pilot. All hell breaks loose when they take him back to their station and he is accidentally thawed out!",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNjQzYTktN2RlMy00YTQ4LWE1YmYtMDEwY2U2ZDA0ZTlmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "23,760",
+      "imdbID": "tt0044121",
+      "Type": "movie",
+      "DVD": "05 Aug 2003",
+      "BoxOffice": "N/A",
+      "Production": "Warner Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Around the World in 80 Days",
+      "Year": "1956",
+      "Rated": "G",
+      "Released": "17 Oct 1956",
+      "Runtime": "175 min",
+      "Genre": "Adventure, Comedy, Family, Romance",
+      "Director": "Michael Anderson, John Farrow",
+      "Writer": "James Poe (screenplay), John Farrow (screenplay), S.J. Perelman (screenplay), Jules Verne (book)",
+      "Actors": "David Niven, Cantinflas, Shirley MacLaine, Robert Newton",
+      "Plot": "When this movie is made in 1956, one can circumnavigate the globe in a little less than two days. When Jules Verne wrote the story \"Around the World in Eighty Days\" in 1872, he predicted that one day man could accomplish the task in eighty hours, but which most considered folly to do in eighty days in current times... that is except for people like Englishman Phileas Fogg, a regimented man who believed all it would take is exacting work, the skills he possesses. He just has to make sure a train's schedule meets the required sailing schedule which meets the required coach schedule and so on. As such, he takes up what ends up being the highly publicized £20,000 wager from his fellow members at the London Reform Club to do so, losing the bet which would ruin him financially. Along for the ride is Fogg's new, loyal and devoted valet, the recently arrived Latin immigrant, Passepartout, who possesses unusual skills which could be major assets, but whose all consuming thoughts on the opposite sex could take away his focus from the task at hand. Although Fogg has accounted for certain transportation delays, he may not account for cultural peccadilloes he may encounter along the way which could also cause delays. He is also unaware of the true reason a man name Fix is following them, he who could also derail Fogg's task permanently. As Fogg and Passepartout proceed on their journey, they get into one misadventure after another. Ultimately, Fogg may find other things in life more important than winning the bet.",
+      "Language": "English, Spanish, French",
+      "Country": "USA",
+      "Awards": "Won 5 Oscars. Another 8 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRhNjVlYTgtODZiOS00OTVhLWE4ZTItZjc3MTFiYWY1YjI5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "22,829",
+      "imdbID": "tt0048960",
+      "Type": "movie",
+      "DVD": "18 May 2004",
+      "BoxOffice": "N/A",
+      "Production": "United Artists",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Spy Kids 4-D: All the Time in the World",
+      "Year": "2011",
+      "Rated": "PG",
+      "Released": "19 Aug 2011",
+      "Runtime": "89 min",
+      "Genre": "Action, Adventure, Comedy, Family, Sci-Fi",
+      "Director": "Robert Rodriguez",
+      "Writer": "Robert Rodriguez, Bartosz Wierzbieta (dialogue: polish version)",
+      "Actors": "Jessica Alba, Joel McHale, Rowan Blanchard, Mason Cook",
+      "Plot": "A retired spy is called back into action, and to bond with her new step-children, she invites them along for the adventure to stop the evil Timekeeper from taking over the world.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwOTk1NjQ0NV5BMl5BanBnXkFtZTcwNTk4MDI3NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "22%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "37/100"
+        }
+      ],
+      "Metascore": "37",
+      "imdbRating": "3.5",
+      "imdbVotes": "20,893",
+      "imdbID": "tt1517489",
+      "Type": "movie",
+      "DVD": "22 Nov 2011",
+      "BoxOffice": "$38,536,376",
+      "Production": "Weinstein Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World at War",
+      "Year": "1973–1976",
+      "Rated": "TV-PG",
+      "Released": "14 Sep 1973",
+      "Runtime": "52 min",
+      "Genre": "Documentary, History, War",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Laurence Olivier",
+      "Plot": "A multi-volumed documentary mini-series, \"The World at War\" covers the entire history of World War II from the causes of the 1920s to the aftermath of the Cold War in the 1950s. Emphasis is also placed on several inside story episodes, where events are covered which occurred inside Germany and Japan such as resistance to Hitler, life in general under a dictatorial regime, and particular emphasis is focused on the Jewish Holocaust.",
+      "Language": "English, German, French, Japanese",
+      "Country": "UK",
+      "Awards": "2 wins & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzExN2NhZDctOWEzMy00NzYwLTg3MDktNjYyNTQyOWY4MGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.2",
+      "imdbVotes": "19,721",
+      "imdbID": "tt0071075",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Cool World",
+      "Year": "1992",
+      "Rated": "PG-13",
+      "Released": "10 Jul 1992",
+      "Runtime": "102 min",
+      "Genre": "Animation, Comedy, Fantasy",
+      "Director": "Ralph Bakshi",
+      "Writer": "Michael Grais, Mark Victor",
+      "Actors": "Janni Brenn, Brad Pitt, William Frankfather, Greg Collins",
+      "Plot": "When cartoonist Jack Deebs was behind bars, he found escape by creating \"Cool World\", a cartoon series featuring a voluptuous femme fatale named Holli Would. But the cartoonist becomes a prisoner of his own fantasies when Holli transports Jack into Cool World with a scheme to seduce him and bring herself to life. A hard-boiled detective--the only other human in Cool World--cautions Jack with the law: Noids (humans) don't have sex with doodles (cartoons). However, the flesh proves weaker than ink as Holli takes human form in Las Vegas, staring in a trans-universal chase that threatens the destruction of both worlds. With a splashy combination of animation and live-action sequences, \"Cool World\" delivers the hottest action around.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FmNGYzMGQtZDI1MS00NTIwLWE4MzUtMzJlNDA5ZjRiMzhkXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "6%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "28/100"
+        }
+      ],
+      "Metascore": "28",
+      "imdbRating": "4.9",
+      "imdbVotes": "19,596",
+      "imdbID": "tt0104009",
+      "Type": "movie",
+      "DVD": "11 Nov 2003",
+      "BoxOffice": "N/A",
+      "Production": "Paramount Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "It's Only the End of the World",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "30 Jun 2017",
+      "Runtime": "97 min",
+      "Genre": "Drama",
+      "Director": "Xavier Dolan",
+      "Writer": "Xavier Dolan (screenplay by), Jean-Luc Lagarce (based on play by)",
+      "Actors": "Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux",
+      "Plot": "After 12 years of absence, Louis (Gaspard Ulliel), a writer, goes back to his hometown, planning on announcing his upcoming death to his family. As resentment soon rewrites the course of the afternoon, fits and feuds unfold, fuelled by loneliness and doubt, while all attempts of empathy are sabotaged by people's incapacity to listen and love.",
+      "Language": "French, English",
+      "Country": "Canada, France",
+      "Awards": "11 wins & 24 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJiZWMyMjQtYjM4Zi00MzVjLWEzZGMtZThlNGJlMmRkYjYxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "44%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "Metascore": "48",
+      "imdbRating": "6.9",
+      "imdbVotes": "18,694",
+      "imdbID": "tt4645368",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "New World",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "21 Feb 2013",
+      "Runtime": "134 min",
+      "Genre": "Crime, Drama",
+      "Director": "Hoon-jung Park",
+      "Writer": "Hoon-jung Park (screenplay)",
+      "Actors": "Jung-jae Lee, Min-sik Choi, Jung-min Hwang, Sung-woong Park",
+      "Plot": "As Korea's biggest crime organization 'Goldmoon' expands its powers, Kang, the head of police investigation planning department, orders the undercover cop Ja-Seoung to participate in project \"New World\", that will take down 'Goldmoon'. Ja-seong must choose either to follow Kang's orders as a cop or to keep his loyalty with Jeong Cheong, the under-boss of the 'Goldmoon' crime organization.",
+      "Language": "Korean, Mandarin",
+      "Country": "South Korea",
+      "Awards": "8 wins & 15 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxODg5ODMxOV5BMl5BanBnXkFtZTcwNzkwMzYyOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "63%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "7.6",
+      "imdbVotes": "18,219",
+      "imdbID": "tt2625030",
+      "Type": "movie",
+      "DVD": "23 Jul 2013",
+      "BoxOffice": "$296,512",
+      "Production": "Well Go USA",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Amazing World of Gumball",
+      "Year": "2011–2019",
+      "Rated": "TV-Y7-FV",
+      "Released": "03 May 2011",
+      "Runtime": "11 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "Ben Bocquelet",
+      "Actors": "Dan Russell, Teresa Gallagher, Kyla Rae Kowalewski, Jacob Hopkins",
+      "Plot": "Welcome to Elmore! This quaint little suburb isn't quite what it seems, as in Elmore, just about everything has the ability to come to life! The Amazing World of Gumball follows the misadventures of Gumball, a twelve-year-old cat. With the help of his best friend Darwin, his former pet goldfish that grew legs and joined the family, he gets into all sorts of antics. He is joined by his sister, Anais, a four-year-old bunny with heightened intelligence. His father, Richard, and his mother, Nicole, are there to provide him support as well.",
+      "Language": "English",
+      "Country": "UK, Ireland, USA, Germany, Japan, France",
+      "Awards": "15 wins & 19 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDMwMzlkZmEtMDM2My00OWRhLTkyYzMtMDM3OWE5ZDQ5ZGQzXkEyXkFqcGdeQXVyNjQyMzg3MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "17,811",
+      "imdbID": "tt1942683",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "Encounters at the End of the World",
+      "Year": "2007",
+      "Rated": "G",
+      "Released": "18 Jul 2008",
+      "Runtime": "99 min",
+      "Genre": "Documentary",
+      "Director": "Werner Herzog",
+      "Writer": "Werner Herzog",
+      "Actors": "Werner Herzog, Scott Rowland, Stefan Pashov, Doug MacAyeal",
+      "Plot": "'Werner Herzog' takes his camera to Antarctica where we meet the odd men and women who have dedicated their lives to furthering the cause of science in treacherous conditions. A scientist studies neutrinos, which are everywhere, yet elusive; he likens them to spirits. A researcher's nighttime performance art includes contorting her body into a luggage bag. A survival guide teaches his students to survive white-out conditions by wearing cartoon-face buckets over their heads. Animal researchers milk mother seals as part of their study. Volcanologists offer advice on what to do when a volcano erupts. A pipefitter shows us the anomaly in his hands that he says are a sign he descended from Atzec royalty. A former Colorado banker drives what he has christened Ivan the Terra Bus. An underwater diver shows his colleagues DVDs of apocalyptic sci-fi films like Them! (1954). And -- though Herzog declares he's not \"making another film about penguins\" -- we meet a penguin researcher who answers the filmmaker's questions about homosexuality and insanity in his subjects. We also meet an individualist penguin, who breaks away from the other birds to run toward the mountains, facing certain death.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 2 wins & 15 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NjkyNjY2OV5BMl5BanBnXkFtZTcwOTUwMTU3MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.7",
+      "imdbVotes": "16,495",
+      "imdbID": "tt1093824",
+      "Type": "movie",
+      "DVD": "18 Nov 2008",
+      "BoxOffice": "$723,966",
+      "Production": "ThinkFilm",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Adult World",
+      "Year": "2013",
+      "Rated": "R",
+      "Released": "14 Feb 2014",
+      "Runtime": "97 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Scott Coffey",
+      "Writer": "Andy Cochran",
+      "Actors": "Emma Roberts, Summer Shelton, Chris Riggi, Shannon Woodward",
+      "Plot": "A naive college graduate, Amy, who believes she's destined to be a great poet, begrudgingly accepts a job in a shop while she pursues a mentorship with reclusive writer Rat Billings.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzNDY1NjgzOV5BMl5BanBnXkFtZTgwNzMzMDEwMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "54%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "6.1",
+      "imdbVotes": "16,268",
+      "imdbID": "tt1067765",
+      "Type": "movie",
+      "DVD": "09 Jun 2014",
+      "BoxOffice": "$16,740",
+      "Production": "IFC Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Rim of the World",
+      "Year": "2019",
+      "Rated": "TV-14",
+      "Released": "24 May 2019",
+      "Runtime": "98 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "McG",
+      "Writer": "Zack Stentz",
+      "Actors": "Jack Gore, Miya Cech, Benjamin Flores Jr., Alessio Scalzotto",
+      "Plot": "Four misfit campers must band together and conquer their fears in order to save the world during an alien invasion.",
+      "Language": "English, Chinese",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTE0MTQzNF5BMl5BanBnXkFtZTgwMjc2MzUwODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "25%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "15,352",
+      "imdbID": "tt8179388",
+      "Type": "movie",
+      "DVD": "24 May 2019",
+      "BoxOffice": "N/A",
+      "Production": "Netflix",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Home at the End of the World",
+      "Year": "2004",
+      "Rated": "R",
+      "Released": "14 Oct 2004",
+      "Runtime": "97 min",
+      "Genre": "Drama, Romance",
+      "Director": "Michael Mayer",
+      "Writer": "Michael Cunningham (novel), Michael Cunningham (screenplay)",
+      "Actors": "Andrew Chalmers, Ryan Donowho, Asia Vieira, Quancetia Hamilton",
+      "Plot": "From the Pulitzer Prize-winning author of \"The Hours\" comes a story that chronicles a dozen years in the lives of two best friends who couldn't be more different. From suburban Cleveland in the 60s, to New York City in the 80s, where they meet an older woman, the film charts a journey of trials, triumphs, loves and losses. Now the question is: can they navigate the unusual triangle they've created and hold their friendship together?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODExMzEzODA0N15BMl5BanBnXkFtZTcwMjQ2ODUyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "6.7",
+      "imdbVotes": "12,909",
+      "imdbID": "tt0359423",
+      "Type": "movie",
+      "DVD": "02 Nov 2004",
+      "BoxOffice": "$887,724",
+      "Production": "Warner Independent",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Pocahontas II: Journey to a New World",
+      "Year": "1998",
+      "Rated": "G",
+      "Released": "25 Aug 1998",
+      "Runtime": "72 min",
+      "Genre": "Animation, Adventure, Drama, Family, Musical, Romance",
+      "Director": "Tom Ellery, Bradley Raymond",
+      "Writer": "Allen Estrin (screenplay), Cindy Marcus (screenplay), Flip Kobler (screenplay)",
+      "Actors": "Irene Bedard, Jim Cummings, Donal Gibson, Finola Hughes",
+      "Plot": "When news of John Smith's death reaches America, Pocahontas is devastated. She sets off to London with John Rolfe, to meet with the King of England on a diplomatic mission: to create peace and respect between the two great lands. However, Governor Ratcliffe is still around; he wants to return to Jamestown and take over, no matter what the cost. He will stop at nothing to discredit the young princess.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUwMmVjNWMtNzQwNC00YzFiLTg4OGUtMzZlYTAxNzJkZDdjXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "29%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "12,747",
+      "imdbID": "tt0143808",
+      "Type": "movie",
+      "DVD": "05 Sep 2000",
+      "BoxOffice": "N/A",
+      "Production": "DisneyToon Studios",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Girl Meets World",
+      "Year": "2014–2017",
+      "Rated": "TV-G",
+      "Released": "27 Jun 2014",
+      "Runtime": "23 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "N/A",
+      "Writer": "Michael Jacobs, April Kelly",
+      "Actors": "Rowan Blanchard, Ben Savage, Sabrina Carpenter, Peyton Meyer",
+      "Plot": "Riley is the daughter of Cory and Topanga and she goes to school with her friends Maya and Farkle and new person Lucas who Riley likes. Cory is Riley's history teacher and everything Riley and Maya do has something to do with their school life problems.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Primetime Emmys. Another 3 wins & 16 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2NTAwMzgwOF5BMl5BanBnXkFtZTgwNTcxMTIwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "11,972",
+      "imdbID": "tt2543796",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    {
+      "Title": "Lo and Behold: Reveries of the Connected World",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "19 Aug 2016",
+      "Runtime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Werner Herzog",
+      "Writer": "Werner Herzog",
+      "Actors": "Werner Herzog, Leonard Kleinrock, Bob Kahn, Danny Hillis",
+      "Plot": "Werner Herzog's exploration of the Internet and the connected world.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg1NTQ0MjYwNl5BMl5BanBnXkFtZTgwMjk1NjYwOTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.0",
+      "imdbVotes": "11,250",
+      "imdbID": "tt5275828",
+      "Type": "movie",
+      "DVD": "22 Nov 2016",
+      "BoxOffice": "$594,452",
+      "Production": "Saville Productions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World of Apu",
+      "Year": "1959",
+      "Rated": "Not Rated",
+      "Released": "04 Oct 1960",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Satyajit Ray",
+      "Writer": "Bibhutibhushan Bandyopadhyay (original story \"Aparajito\"), Satyajit Ray (screenplay)",
+      "Actors": "Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty, Swapan Mukherjee",
+      "Plot": "Apu is a jobless former student dreaming vaguely of a future as a writer. An old college friend talks him into a visit up-country to a village wedding. This changes his life, for when the bridegroom turns out to be mad, Apu's friend asks him to become the husband. After initial revulsion at the idea, Apu agrees. Apu takes his exquisite bride, Aparna, back to Calcutta. But Aparna dies while giving birth, Apu leaves Calcutta, crazy with grief, and his son Kajal is left abandoned with his wife's parents. Only after a long period of total indifference to worldly responsibilities, does Apu become capable of returning to the world.",
+      "Language": "Bengali, English",
+      "Country": "India",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYwYmVhZTAtNjFkNi00NzZkLWIyNWUtZmQyMmVkM2MwMjc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "10,159",
+      "imdbID": "tt0052572",
+      "Type": "movie",
+      "DVD": "28 Oct 2003",
+      "BoxOffice": "N/A",
+      "Production": "Satyajit Ray Productions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "George Harrison: Living in the Material World",
+      "Year": "2011",
+      "Rated": "Not Rated",
+      "Released": "04 Oct 2011",
+      "Runtime": "208 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Martin Scorsese",
+      "Writer": "N/A",
+      "Actors": "George Harrison, Paul McCartney, John Lennon, Ringo Starr",
+      "Plot": "George Harrison first became known to the world as \"The Quiet Beatle\" of the Fab Four, but there was far more to his life than simply being a part of The Beatles. This film explores the life and career of this seminal musician, philanthropist, film producer and amateur race car driver who grew to make his own mark on the world. Through his music, archival footage and the memories of friends and family, Harrison's deep spirituality and humanity are explored in his singular life as he took on artistic challenges and important causes as only he could.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 2 Primetime Emmys. Another 4 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkMzc0ZjUtMjU0Yi00OTg5LTg1NDgtNTNlOTI3MmYyNzQ5XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "9,897",
+      "imdbID": "tt1113829",
+      "Type": "movie",
+      "DVD": "01 May 2012",
+      "BoxOffice": "N/A",
+      "Production": "HBO Documentary",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Call of Duty: World at War",
+      "Year": "2008",
+      "Rated": "M",
+      "Released": "11 Nov 2008",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Horror, Thriller, War",
+      "Director": "Margaret Tang",
+      "Writer": "Craig Houston (story), Craig Houston (script), Chris Valenziano, Patrick Doody, Father (\"Call of Duty: Zombies\" created by)",
+      "Actors": "Gary Oldman, Kiefer Sutherland, Craig Houston, Chris Fries",
+      "Plot": "An epic story of an American marine and a Soviet soldier in WWII.",
+      "Language": "English, Japanese, German, Russian",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ0ODQ4ZTctNGJjNy00ZGY5LTg4NTEtZWVkYzFmMTZlMDdmXkEyXkFqcGdeQXVyNjM1MzczNjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "9,485",
+      "imdbID": "tt1323508",
+      "Type": "game",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "World of Tomorrow",
+      "Year": "2015",
+      "Rated": "G",
+      "Released": "31 Mar 2015",
+      "Runtime": "17 min",
+      "Genre": "Animation, Short, Comedy, Drama, Sci-Fi",
+      "Director": "Don Hertzfeldt",
+      "Writer": "Don Hertzfeldt",
+      "Actors": "Julia Pott, Winona Mae",
+      "Plot": "A little girl is taken on a mind-bending tour of her distant future.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 27 wins & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU0NzhjMWYtMDJhMC00OGY0LWJiMjUtZDFhYTcwNzA4ZDhhXkEyXkFqcGdeQXVyMjM5NDU5ODY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "8,085",
+      "imdbID": "tt4171032",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Until the End of the World",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "25 Dec 1991",
+      "Runtime": "158 min",
+      "Genre": "Action, Drama, Sci-Fi, Thriller",
+      "Director": "Wim Wenders",
+      "Writer": "Peter Carey (screenplay), Wim Wenders (screenplay), Wim Wenders (original idea by), Solveig Dommartin (original idea by), Michael Almereyda",
+      "Actors": "Solveig Dommartin, Pietro Falcone, Enzo Turrin, Chick Ortega",
+      "Plot": "Set in 1999, a woman (Dommartin) has a car accident with some bank robbers, who enlist her help to take the bank money to a drop in Paris. On the way she runs into another fugitive from the law (Hurt), an American who is being chased by the CIA. The charges are false, he claims. They want to confiscate a device his father invented which allows anyone to record their dreams and vision. On the run from both the bank robbers and the CIA, the couple span the globe, ending up in Australia at his father's (von Sydow) research facility, where they hope to play back the recordings Hurt captured for his blind mother. Set in the futuristic year of 1999, a subplot about a damaged Indian nuclear satellite crashing and causing the end of civilization is a puzzling addition to the film.",
+      "Language": "English, French, Italian, Japanese, German",
+      "Country": "Germany, France, Australia, USA",
+      "Awards": "2 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjQzOTMyOTdeQTJeQWpwZ15BbWU4MDU3ODI4MDEx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "8,003",
+      "imdbID": "tt0101458",
+      "Type": "movie",
+      "DVD": "22 Jul 1992",
+      "BoxOffice": "N/A",
+      "Production": "Warner Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Apocalypse: The Second World War",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "08 Sep 2009",
+      "Runtime": "312 min",
+      "Genre": "Documentary, History, War",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mathieu Kassovitz, Martin Sheen",
+      "Plot": "Apocalypse: The Second World War(2009) is a six-part French documentary about the Second World War. The documentary is composed exclusively of actual footage of the war as filmed by war correspondents, soldiers, resistance fighters and private citizens. The series is shown in color, with the black and white footage being fully colorized, save for some original color footage. The only exception to the treatment are most Holocaust scenes, which are presented in the original black and white.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyMmM1ZGMtZTgwMS00Y2Y4LTg0MTItMGRiZGE3YTVhYjU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.0",
+      "imdbVotes": "7,931",
+      "imdbID": "tt1508238",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "World Without End",
+      "Year": "2012",
+      "Rated": "TV-MA",
+      "Released": "17 Oct 2012",
+      "Runtime": "374 min",
+      "Genre": "Drama, History, Romance, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ben Chaplin, Charlotte Riley, Nora von Waldstätten, Oliver Jackson-Cohen",
+      "Plot": "The English town of Kingsbridge works to survive as the King leads the nation into the Hundred Years' War with France while Europe deals with the outbreak of the Black Death.",
+      "Language": "English",
+      "Country": "Canada, Germany, UK",
+      "Awards": "Won 1 Primetime Emmy. Another 1 win & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczOTQ3MjI3NV5BMl5BanBnXkFtZTcwMDE3NDc0OA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "7,526",
+      "imdbID": "tt1878805",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Death Note: L Change the World",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "129 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Hideo Nakata",
+      "Writer": "Tsugumi Ôba (story and characters), Takeshi Obata (story and characters), Hirotoshi Kobayashi, Kiyomi Fujii",
+      "Actors": "Ken'ichi Matsuyama, Sota Aoyama, David Bueno, Shunji Fujimura",
+      "Plot": "A spin-off of the popular Death Note films, 'L: Change The World' focuses on the legendary detective L as he uses his final 23 days to solve crimes all over the world. When a young girl and boy come to him for aid, L is soon faced with what may be his most difficult case yet: stopping a group of corrupted scientists from spreading a lethal virus throughout the earth.",
+      "Language": "Japanese, French, Italian, Thai, English",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2MTQ5MjQ4NV5BMl5BanBnXkFtZTcwNDMwOTE3Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "7,487",
+      "imdbID": "tt0912597",
+      "Type": "movie",
+      "DVD": "25 Aug 2009",
+      "BoxOffice": "N/A",
+      "Production": "Horipro",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Night Eats the World",
+      "Year": "2018",
+      "Rated": "TV-14",
+      "Released": "13 Jul 2018",
+      "Runtime": "93 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Dominique Rocher",
+      "Writer": "Pit Agarmen (novel), Jérémie Guez (screenplay), Guillaume Lemans (screenplay), Dominique Rocher (screenplay)",
+      "Actors": "Anders Danielsen Lie, Golshifteh Farahani, Denis Lavant, Sigrid Bouaziz",
+      "Plot": "The morning after a party, a young man wakes up to find Paris invaded by zombies.",
+      "Language": "Norwegian, English, French",
+      "Country": "France",
+      "Awards": "1 win & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I2MDA2ZTctMzcxMS00NWM2LWFkYTEtMGI4Njg3ZjAwOGZmXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "6.0",
+      "imdbVotes": "7,447",
+      "imdbID": "tt4266076",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Haunted World of El Superbeasto",
+      "Year": "2009",
+      "Rated": "R",
+      "Released": "12 Sep 2009",
+      "Runtime": "77 min",
+      "Genre": "Animation, Action, Comedy, Fantasy, Horror, Musical",
+      "Director": "Rob Zombie",
+      "Writer": "Mike Bell (additional story), Joe Ekers (additional story), Tom Klein (additional story), Mr. Lawrence (additional screenplay material), Joe Orrantia (additional story), Tom Papa, Carey Yost (additional story), Rob Zombie (story)",
+      "Actors": "Joe Alaskey, Ken Foree, Sheri Moon Zombie, Tom Papa",
+      "Plot": "The story follows the adventures of El Superbeasto, a washed-up Mexican luchador, and his sultry sidekick and sister Suzi-X as they confront an evil villain by the name of Dr. Satan. The adventure, set in the mythic world of Monsterland, also has a character named Murray the robot.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM5ODMyNjg2NF5BMl5BanBnXkFtZTcwMDA3ODc2Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "40%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "6,997",
+      "imdbID": "tt0419724",
+      "Type": "movie",
+      "DVD": "22 Sep 2009",
+      "BoxOffice": "N/A",
+      "Production": "Anchor Bay Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "In This Corner of the World",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "12 Nov 2016",
+      "Runtime": "129 min",
+      "Genre": "Animation, Drama, Family, History, War",
+      "Director": "Sunao Katabuchi",
+      "Writer": "Sunao Katabuchi, Fumiyo Kono (manga), Chie Uratani",
+      "Actors": "Non, Ava Pickard, Kenna Pickard, Karen Strassman",
+      "Plot": "Set in Hiroshima during World War II, an eighteen-year-old girl gets married and now has to prepare food for her family despite the rationing and lack of supplies. As she struggles with the daily loss of life's amenities she still has to maintain the will to live.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "10 wins & 9 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5Y2RhNzQtYjUwOC00ZTE4LTg0OTAtZDhhMjQ3N2JkMzZiXkEyXkFqcGdeQXVyNjc2NTgzMzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.8",
+      "imdbVotes": "6,984",
+      "imdbID": "tt4769824",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bill Nye Saves the World",
+      "Year": "2017–",
+      "Rated": "TV-14",
+      "Released": "21 Apr 2017",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Talk-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Nye",
+      "Plot": "Explores science and its impact on politics, society and pop culture. Each episode of the series will tackle a topic from a scientific point of view, dispelling myths, and refuting anti-scientific claims that may be espoused by politicians, religious leaders or titans of industry.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Primetime Emmys. Another 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQzNTM5ZTItOWI0Yy00YzE0LTgzMTYtZWEzNGI0MDA5MWViXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.6",
+      "imdbVotes": "6,498",
+      "imdbID": "tt6021260",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    {
+      "Title": "Re: Zero - Starting Life in Another World",
+      "Year": "2016–",
+      "Rated": "TV-14",
+      "Released": "03 Apr 2016",
+      "Runtime": "24 min",
+      "Genre": "Animation, Adventure, Drama, Fantasy, Horror, Mystery, Romance, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yûsuke Kobayashi, Sean Chiplock, Rie Takahashi, Inori Minase",
+      "Plot": "Suddenly, high school student Subaru Natsuki has been summoned to another world on the way back from the convenience store. With the biggest crisis of his life being summoned to another world, and with no sign of the one who summoned him, things become even worse when he is attacked. But when he is saved by a mysterious, silver-haired girl with a fairy cat, Subaru cooperates with her to return the favor. When they finally manage to get a clue, Subaru and the girl are attacked and killed by someone. Subaru then awakens in the place he was summoned and notices he gained the ability \"Returns by Death\" and has become a helpless boy that only has the ability to rewind time by dying. Beyond the despair, can he save the girl from the fate of death?",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "6,465",
+      "imdbID": "tt5607616",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Bobby Fischer Against the World",
+      "Year": "2011",
+      "Rated": "TV-14",
+      "Released": "06 Jun 2011",
+      "Runtime": "93 min",
+      "Genre": "Documentary, Biography, History, Sport",
+      "Director": "Liz Garbus",
+      "Writer": "N/A",
+      "Actors": "Bobby Fischer, David Edmonds, Anthony Saidy, Susan Polgar",
+      "Plot": "'Bobby Fischer Against the World' is a documentary feature exploring the tragic and bizarre life of the late chess master Bobby Fischer. The drama of Bobby Fischer's career was undeniable, from his troubled childhood, to his rock star status as World Champion and Cold War icon, to his life as a fugitive on the run. This film explores one of the most infamous and mysterious characters of the 20th century.",
+      "Language": "English, Russian",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 1 Primetime Emmy. Another 1 win & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3NDIzNDY5N15BMl5BanBnXkFtZTgwNDg1NzcwMzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.4",
+      "imdbVotes": "6,461",
+      "imdbID": "tt1777551",
+      "Type": "movie",
+      "DVD": "05 Dec 2011",
+      "BoxOffice": "N/A",
+      "Production": "Music Box Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "America: Imagine the World Without Her",
+      "Year": "2014",
+      "Rated": "PG-13",
+      "Released": "02 Jul 2014",
+      "Runtime": "105 min",
+      "Genre": "Documentary",
+      "Director": "Dinesh D'Souza, John Sullivan",
+      "Writer": "Dinesh D'Souza, John Sullivan, Bruce Schooley",
+      "Actors": "Dinesh D'Souza, Barack Obama, Josh Bonzie, Rich Bentz",
+      "Plot": "Tells a story of a group of people attempting to lead this country astray - fingers wagging along with tongues, placing blame, from Lincoln to current time on everyone and everything on one side of the equation. Yes! A look at true revisionist behavior - leading savvy viewers to recognize the familiar yet modernized example of classic dramatic irony.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0MjgyOTQ4NF5BMl5BanBnXkFtZTgwOTQ1NzQ3MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "8%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "15/100"
+        }
+      ],
+      "Metascore": "15",
+      "imdbRating": "5.4",
+      "imdbVotes": "6,392",
+      "imdbID": "tt2785390",
+      "Type": "movie",
+      "DVD": "28 Oct 2014",
+      "BoxOffice": "$14,438,086",
+      "Production": "Lionsgate Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "October (Ten Days that Shook the World)",
+      "Year": "1927",
+      "Rated": "N/A",
+      "Released": "24 Sep 1928",
+      "Runtime": "95 min",
+      "Genre": "Drama, History",
+      "Director": "Grigoriy Aleksandrov, Sergei M. Eisenstein",
+      "Writer": "Sergei M. Eisenstein, Grigoriy Aleksandrov, Boris Agapow (intertitles), John Reed (book)",
+      "Actors": "Nikolay Popov, Vasili Nikandrov, Layaschenko, Chibisov",
+      "Plot": "In documentary style, events in Petrograd are re-enacted from the end of the monarchy in February of 1917 to the end of the provisional government and the decrees of peace and of land in November of that year. Lenin returns in April. In July, counter-revolutionaries put down a spontaneous revolt, and Lenin's arrest is ordered. By late October, the Bolsheviks are ready to strike: ten days will shake the world. While the Mensheviks vacillate, an advance guard infiltrates the palace. Anatov-Oveyenko leads the attack and signs the proclamation dissolving the provisional government.",
+      "Language": "N/A",
+      "Country": "Soviet Union",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyMjI2MTgxOF5BMl5BanBnXkFtZTgwMDA2MzUxMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "6,322",
+      "imdbID": "tt0018217",
+      "Type": "movie",
+      "DVD": "29 Dec 1998",
+      "BoxOffice": "N/A",
+      "Production": "First National Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Goodbye World",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "04 Apr 2014",
+      "Runtime": "99 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Denis Henry Hennelly",
+      "Writer": "Sarah Adina Smith, Denis Henry Hennelly",
+      "Actors": "Adrian Grenier, Kid Cudi, Mckenna Grace, Kerry Bishé",
+      "Plot": "James and Lily, estranged from society, live off the grid, raising their young daughter in a cocoon of comfort and sustainability. When a mysterious mass text ripples its way across the country, triggering a crippling, apocalyptic cyber attack, their home transitions from sheltered modern oasis to a fortress for the estranged old friends that show up at their door for protection and community. The unexpected reunion--abundant with revelry and remembrances, generously enhanced by organic wine and weed--is quickly undermined by the slights of the past, the spark of lingering flirtations and the threat of a locally grown new world order. Balancing tense confrontations with slivers of levity, director Denis Henry Hennelly pinpoints a future where ideology explodes into action in every area.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MTQ4NDUzNF5BMl5BanBnXkFtZTgwNTQ1NDQxMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "27%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "36/100"
+        }
+      ],
+      "Metascore": "36",
+      "imdbRating": "5.5",
+      "imdbVotes": "6,268",
+      "imdbID": "tt2352802",
+      "Type": "movie",
+      "DVD": "03 Jun 2014",
+      "BoxOffice": "N/A",
+      "Production": "IDP/Samuel goldwyn Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "April and the Extraordinary World",
+      "Year": "2015",
+      "Rated": "PG",
+      "Released": "08 Apr 2016",
+      "Runtime": "105 min",
+      "Genre": "Animation, Adventure, Comedy, Drama, Mystery, Sci-Fi, Thriller",
+      "Director": "Christian Desmares, Franck Ekinci",
+      "Writer": "Franck Ekinci (screenplay by), Benjamin Legrand (screenplay by), Benjamin Legrand (based on an original idea by), Jacques Tardi (original graphic creation), Mark Camacho (adaptation), Pauline Little (adaptation)",
+      "Actors": "Marion Cotillard, Marc-André Grondin, Philippe Katerine, Jean Rochefort",
+      "Plot": "In 1941, the world is radically different from the one we know from history books. Geopolitics has developed strangely: Napoleon V rules France and, for the last 70 years, scholars have been mysteriously disappearing, depriving mankind of their inventions. Without radio, television, electricity, aviation, and the combustion engine, the world is mired in outdated technology, dozing in the previous century's knowhow dominated by coal and steam. In this bizarre universe, Avril (Marion Cotillard), a teenage girl, Darwin (Philippe Katerine), her talking cat, Pops (Jean Rochefort), her grandfather, and Julius (Marc-André Grondin), a young scoundrel and police informer, go off in search of Avril's parents, two of the missing scientists. The quartet will face many dangers and mysteries in this strange new Rigged World.",
+      "Language": "French",
+      "Country": "France, Canada, Belgium",
+      "Awards": "1 win & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg1ZWIxODItY2ZjMC00MzMzLTgwMDctNTlmY2YzNjM3NzhmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.3",
+      "imdbVotes": "5,835",
+      "imdbID": "tt3422078",
+      "Type": "movie",
+      "DVD": "02 Aug 2016",
+      "BoxOffice": "$294,311",
+      "Production": "GKIDS",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Where in the World Is Osama Bin Laden?",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "09 May 2008",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Comedy, War",
+      "Director": "Morgan Spurlock",
+      "Writer": "Jeremy Chilnick (screenplay), Morgan Spurlock (screenplay)",
+      "Actors": "Morgan Spurlock, George Bush, Dick Cheney, Daryl Isaacs",
+      "Plot": "When Morgan Spurlock and his wife find out they are expecting a child in an unsafe world that faces multiple terrorist and environmental threats, Morgan decides to track down the world's most wanted and dangerous terrorist, Osama Bin Laden, undergoes self-defense training, takes all required medical shots, and sets out to travel to Morocco, Egypt, Jordan, Israel, Afghanistan, Pakistan amongst others to try and locate the man who has managed to elude the American army for nearly a decade. His fears, generated due to biased media coverage that Muslims and Arabs are hostile, are laid to rest when he does encounter friendly, and quite refreshingly well educated, hospitable, politically matured men and women, who are well aware of America's faulty 'foreign policy', and do not subscribe to Jihad nor to the Taliban nor Osama's terror-tactics. But he does encounter some hostility, quite ironically, in two of America's allies -- Israel and Saudi Arabia -- and it is on the soil of Pakistan -- his country's ally against the so-called War Against Terror -- that he eventually hopes to find Osama. The questions still remain: will he able to find him where many others have purportedly failed? And most importantly will he be allowed to remain alive after finding him?",
+      "Language": "English, Arabic, French",
+      "Country": "France, USA",
+      "Awards": "2 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMTA2ODQ4NV5BMl5BanBnXkFtZTcwNzE4MjU2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "37%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "6.5",
+      "imdbVotes": "5,789",
+      "imdbID": "tt0963208",
+      "Type": "movie",
+      "DVD": "26 Aug 2008",
+      "BoxOffice": "$300,000",
+      "Production": "The Weinstein Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Boy and the World",
+      "Year": "2013",
+      "Rated": "PG",
+      "Released": "17 Jan 2014",
+      "Runtime": "80 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Alê Abreu",
+      "Writer": "Alê Abreu",
+      "Actors": "Vinicius Garcia, Felipe Zilse, Alê Abreu, Lu Horta",
+      "Plot": "An amazing Brazilian animation that truly exemplifies the power of imagery and music as a combination that has more than enough to portray a powerful and deep message. It shows an adventurous quest that illustrates the issues of the modern world through the eyes of a child. A cautionary tale of globalization, The Boy And The World teaches above all the dangers of the massification of the economy, of the mind, and of the soul.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "Nominated for 1 Oscar. Another 15 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTAwODg1NF5BMl5BanBnXkFtZTgwMTUyMDQyNzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.6",
+      "imdbVotes": "5,786",
+      "imdbID": "tt3183630",
+      "Type": "movie",
+      "DVD": "05 Jul 2016",
+      "BoxOffice": "$47,618",
+      "Production": "GKIDS",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Saddest Music in the World",
+      "Year": "2003",
+      "Rated": "R",
+      "Released": "12 May 2005",
+      "Runtime": "100 min",
+      "Genre": "Comedy, Musical",
+      "Director": "Guy Maddin",
+      "Writer": "Kazuo Ishiguro (original screenplay), George Toles, Guy Maddin",
+      "Actors": "Mark McKinney, Isabella Rossellini, Maria de Medeiros, David Fox",
+      "Plot": "It's the winter of 1933 in Winnipeg. In honor of Winnipeg being named the sorrow capital of the world for the Depression era for the fourth year running by the London Times, Lady Helen Port-Huntley, the legless owner of Winnipeg's Port-Huntley Beer, is hosting and judging a contest to see which nation has the saddest music in the world, the winner to take home a $25,000 prize. Seeing as to the current Prohibition in the United States, Lady Port-Huntley has ulterior motives for the contest. Father and son, streetcar conductor Fyodor Kent and New York based musical producer Chester Kent, who both have a past connection to Lady Port-Huntley (Fyodor, a WWI veteran and former doctor, has fashioned for her an unusual pair of artificial legs apropos to her business), want to represent Canada and the United States respectively in the contest. Despite Lady Port-Huntley's hatred for the Kent's, she does allow them to do so if only to advance her own priorities. As the contest takes place, the Kents, who also include Fyodor's other son/Chester's brother, Roderick Kent (who wants to represent Serbia in the contest, as his missing wife is Serbian), deal with their collective sorrow and family dysfunction, the latter issue which involves Chester's current girlfriend, an amnesiac named Narcissa.",
+      "Language": "English, Spanish",
+      "Country": "Canada",
+      "Awards": "6 wins & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4OTM5MTcyNF5BMl5BanBnXkFtZTYwNDEzOTc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.2",
+      "imdbVotes": "5,465",
+      "imdbID": "tt0366996",
+      "Type": "movie",
+      "DVD": "16 Nov 2004",
+      "BoxOffice": "$559,351",
+      "Production": "IFC Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dark Blue World",
+      "Year": "2001",
+      "Rated": "R",
+      "Released": "17 May 2001",
+      "Runtime": "112 min",
+      "Genre": "War, Drama, Action, Romance",
+      "Director": "Jan Sverák",
+      "Writer": "Zdenek Sverák (story), Zdenek Sverák (screenplay)",
+      "Actors": "Ondrej Vetchý, Krystof Hádek, Tara Fitzgerald, Charles Dance",
+      "Plot": "March 15, 1939: Germany invades Czechoslovakia. Czech and Slovak pilots flee to England, joining the RAF. After the war, back home, they are put in labor camps, suspected of anti-Communist ideas. This film cuts between a post-war camp where Franta is a prisoner and England during the war, where Franta is like a big brother to Karel, a very young pilot. On maneuvers, Karel crash lands by the rural home of Susan, an English woman whose husband is MIA. She spends one night with Karel, and he thinks he's found the love of his life. It's complicated by Susan's attraction to Franta. How will the three handle innocence, Eros, friendship, and the heat of battle? When war ends, what then?",
+      "Language": "Czech, German, English, Slovak",
+      "Country": "Czech Republic, UK, Germany, Denmark, Italy, France, USA",
+      "Awards": "8 wins & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk0YjZlYjgtNTM2Mi00YzM0LTkzMTItOGI5YjYzZTg2Zjk3L2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ],
+      "Metascore": "56",
+      "imdbRating": "7.2",
+      "imdbVotes": "5,346",
+      "imdbID": "tt0244479",
+      "Type": "movie",
+      "DVD": "28 May 2002",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures Classics",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "It's a Free World...",
+      "Year": "2007",
+      "Rated": "Not Rated",
+      "Released": "29 Feb 2008",
+      "Runtime": "96 min",
+      "Genre": "Drama",
+      "Director": "Ken Loach",
+      "Writer": "Paul Laverty",
+      "Actors": "Kierston Wareing, Juliet Ellis, Leslaw Zurek, Joe Siffleet",
+      "Plot": "Angie gets the sack from a recruitment agency for bad behaviour in public. Seizing the chance, she teams up with her flatmate, Rose, to run a similar business from their kitchen. With immigrants desperate to work the opportunities are considerable, particularly for two girls so in tune with these times.",
+      "Language": "English, Polish",
+      "Country": "UK, Italy, Germany, Spain, Poland",
+      "Awards": "4 wins & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjY3MjQzMl5BMl5BanBnXkFtZTcwMjkwMjU1MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "5,324",
+      "imdbID": "tt0807054",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "IFC Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World is Big and Salvation Lurks Around the Corner",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "10 Oct 2008",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Stephan Komandarev",
+      "Writer": "Yurii Dachev (screenplay), Stephan Komandarev (screenplay), Dusan Milic (screenplay), Ilija Trojanow (novel)",
+      "Actors": "Predrag 'Miki' Manojlovic, Carlo Ljubek, Hristo Mutafchiev, Ana Papadopulu",
+      "Plot": "What's in a game? For a young man, who has left his country behind, lost his memory and forgotten his love, the game might be the only way out. This is a story about a Bulgarian boy who grows up to be a German man. After a car accident Alex can't remember even what his name is. In an attempt to cure him from amnesia, his grandfather Bai Dan comes over to Germany and organizes a spiritual journey for his grandson back into his past, to the country where he came from. In changing places, time and transport, crossing half Europe, they play backgammon, the simplest, and yet the most complex of all games. That game leads Alex to the realizations of who he is, and that game is symbolic to the story. Destiny is the dice we hold in our own hands and life is a game on the edge between chance and skill.",
+      "Language": "Bulgarian, German, Italian, Slovenian, English, Hungarian",
+      "Country": "Bulgaria, Germany, Slovenia, Hungary, Serbia",
+      "Awards": "8 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODQwNzE2OF5BMl5BanBnXkFtZTcwMzE0NjUxMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "5,307",
+      "imdbID": "tt1178197",
+      "Type": "movie",
+      "DVD": "03 Oct 2011",
+      "BoxOffice": "N/A",
+      "Production": "Pallas Film",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Different World",
+      "Year": "1987–1993",
+      "Rated": "TV-PG",
+      "Released": "24 Sep 1987",
+      "Runtime": "60 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Bill Cosby",
+      "Actors": "Jasmine Guy, Kadeem Hardison, Darryl M. Bell, Charnele Brown",
+      "Plot": "A group of students at a historically Black university struggle to make it through college.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Primetime Emmys. Another 16 wins & 4 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0NzVmZmItNTFmNC00ZTFkLWJhY2QtODAxNjdmMzAyMDE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg5NjkwODg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "5,161",
+      "imdbID": "tt0092339",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "The Yes Men Fix the World",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "07 Aug 2009",
+      "Runtime": "87 min",
+      "Genre": "Documentary, Comedy",
+      "Director": "Andy Bichlbaum, Mike Bonanno, Kurt Engfehr(co-director)",
+      "Writer": "Andy Bichlbaum (idea), Mike Bonanno (idea), Andy Bichlbaum (screenplay), Mike Bonanno (screenplay)",
+      "Actors": "Reggie Watts, Mike Bonanno, Andy Bichlbaum, Richard Ebeling",
+      "Plot": "Troublemaking duo Andy Bichlbaum and Mike Bonanno, posing as their industrious alter-egos, expose the people profiting from Hurricane Katrina, the faces behind the environmental disaster in Bhopal, and other shocking events.",
+      "Language": "English",
+      "Country": "France, UK, USA",
+      "Awards": "2 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MzM2MjU0N15BMl5BanBnXkFtZTcwMDIyMDcxMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.6",
+      "imdbVotes": "5,118",
+      "imdbID": "tt1352852",
+      "Type": "movie",
+      "DVD": "01 Apr 2010",
+      "BoxOffice": "N/A",
+      "Production": "Cinetic Media",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Were the World Mine",
+      "Year": "2008",
+      "Rated": "Not Rated",
+      "Released": "14 May 2009",
+      "Runtime": "95 min",
+      "Genre": "Adventure, Comedy, Fantasy, Musical, Romance",
+      "Director": "Tom Gustafson",
+      "Writer": "Cory Krueckeberg, Tom Gustafson, William Shakespeare (inspired by the play \"A Midsummer Night's Dream\")",
+      "Actors": "Tanner Cohen, Wendy Robie, Judy McLane, Zelda Williams",
+      "Plot": "If you had a love-potion, who would you make fall madly in love with you? Timothy, prone to escaping his dismal high school reality through dazzling musical daydreams, gets to answer that question in a very real way. After his eccentric teacher casts him as Puck in A Midsummer Night's Dream, he stumbles upon a recipe hidden within the script to create the play's magical, purple love-pansy. Armed with the pansy, Timothy's fading spirit soars as he puckishly imposes a new reality by turning much of his narrow-minded town gay, beginning with the rugby-jock of his dreams. Ensnaring family, friends and enemies in this chaos, Timothy forces them to walk a mile in his musical shoes. The course of true love never did run smooth; it's a bumpy ride.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "17 wins.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcwMzkyOTMyM15BMl5BanBnXkFtZTcwMTA2Mjg5MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "5,063",
+      "imdbID": "tt0476991",
+      "Type": "movie",
+      "DVD": "09 Jun 2009",
+      "BoxOffice": "N/A",
+      "Production": "Wolfe Releasing",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "World on a Wire",
+      "Year": "1973–",
+      "Rated": "Not Rated",
+      "Released": "14 Oct 1973",
+      "Runtime": "212 min",
+      "Genre": "Crime, Mystery, Sci-Fi",
+      "Director": "Rainer Werner Fassbinder",
+      "Writer": "Daniel F. Galouye (novel), Fritz Müller-Scherz (teleplay), Rainer Werner Fassbinder (teleplay)",
+      "Actors": "Klaus Löwitsch",
+      "Plot": "Somewhere in the future there is a computer project called Simulacron one of which is able to simulate a full featured reality, when suddenly project leader Henry Vollmer dies. His successor Dr. Fred Stiller experiences odd phenomena. A good friend, Guenther Lause, disappears in the middle of a conversation and a week later nobody has ever heard of him. And those fits of dizzyness - Stiller cannot believe himself to be fool. There has to be an explanation for all this. Could Simulacron have something to do with it?",
+      "Language": "German, English",
+      "Country": "West Germany",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkzNjY3NmEtN2Q1NS00ZjMxLTliNDEtMGJlYTNjNzczZTIwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "4,856",
+      "imdbID": "tt0070904",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Future World",
+      "Year": "2018",
+      "Rated": "R",
+      "Released": "14 Jun 2018",
+      "Runtime": "90 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "James Franco, Bruce Thierry Cheung",
+      "Writer": "Bruce Thierry Cheung, Jay Davis, Jeremy Cheung",
+      "Actors": "James Franco, Suki Waterhouse, Jeff Wahlberg, Margarita Levieva",
+      "Plot": "A young boy searches a future world wasteland for a rumored cure for his dying mother.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMxMDZhNjEtYjA3ZS00MzE5LTkwN2MtNmNhMzJiNjQwMzQ1XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "0%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "10/100"
+        }
+      ],
+      "Metascore": "10",
+      "imdbRating": "3.2",
+      "imdbVotes": "4,841",
+      "imdbID": "tt5737536",
+      "Type": "movie",
+      "DVD": "10 Jul 2018",
+      "BoxOffice": "N/A",
+      "Production": "Lionsgate Premiere",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bottom of the World",
+      "Year": "2017",
+      "Rated": "Not Rated",
+      "Released": "01 Mar 2017",
+      "Runtime": "85 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Richard Sears",
+      "Writer": "Brian Gottlieb, Brian Gottlieb (story by), David Kowalski (story by)",
+      "Actors": "Jena Malone, Douglas Smith, Ted Levine, Tamara Duarte",
+      "Plot": "The mysterious disappearance of a young woman leads her boyfriend on a journey for truth and perhaps his own unknown reality in this dark, hypnotic mystery that transcends the limitations of traditional narrative.",
+      "Language": "English",
+      "Country": "Canada, USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzI2MzY5NV5BMl5BanBnXkFtZTgwNDkwMTE5NzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.4",
+      "imdbVotes": "4,701",
+      "imdbID": "tt2337841",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "World of Warcraft",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "23 Nov 2004",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "N/A",
+      "Writer": "Michael Chu (quest designer)",
+      "Actors": "Michele Marie Arko, Tracy W. Bush, Joey Cash, Johnny Cash",
+      "Plot": "Four years have passed since the mortal races stood together against the might of the Burning Legion. The tenuous peace forged in a time of desperation is fading. Arthas, the mad deathknight, has assumed the mantle of the Lich King, becoming nearly invincible in his fortress in Northrend. However, the great will of the Lich King has failed, and the undead legions have splintered. The Forsaken, those creatures that have managed to throw off the control of the undead lord under the guidance of Sylvanas Windrunner, the former high elf, have control of the lands of Lordaeron, under constant attack from the mindless creations of the Arthas. South of Lordaeron, in the land of Azeroth, the humans have reclaimed their stronghold of Stormwind, building it into their new capital city. But the king has mysteriously vanished, and the Defias Brotherhood, a group of thieves and murderers, have gained considerable power. With the Stormwind army away from the capital, the task falls on the shoulder of adventurers to protect the human lands, under the rule of their child king. To the north of Stormwind, in Khaz Modan, the dwarves and gnomes work together, trying to reclaim the gnomish city of Gnomeregan from the troggs, while attempting to secure their own borders and protect their human allies. In Darnassus, the island stronghold of the Night Elves, nature and balance have been restored, but the mainland of Kalimdor has been lost to the Horde. In Ogrimmar, to the south of Darnassus, the orcs and trolls attempt to carve out their own place in a world that does not seem to want them, under the wise leadership of the shaman Thrall. In Southern Kalimdor, the Tauren try to protect their great city of Thunder Bluff from the ravages of those who would attempt to defile their lands. Eight races, all vying for control of Azeroth. Four years have passed since the races banded together to protect the Well of Eternity from the power of the Burning Legion. The tenuous peace that once held all the hatred of the races at bay, has shattered. The lands of the world of Azeroth have once again become host to a World of Warcraft.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMTMwNjg0M15BMl5BanBnXkFtZTgwODc1ODM3MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "4,523",
+      "imdbID": "tt0433664",
+      "Type": "game",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Center of the World",
+      "Year": "2001",
+      "Rated": "Unrated",
+      "Released": "18 May 2001",
+      "Runtime": "88 min",
+      "Genre": "Drama, Romance",
+      "Director": "Wayne Wang",
+      "Writer": "Wayne Wang (story), Miranda July (story), Paul Auster (story), Siri Hustvedt (story), Ellen Benjamin Wong (screenplay)",
+      "Actors": "Shane Edelman, Peter Sarsgaard, Molly Parker, Maryjane Green",
+      "Plot": "A couple checks into a suite in Las Vegas. In flashbacks we see that he's a computer whiz on the verge of becoming a dot.com millionaire, she's a lap dancer at a club. He's depressed, withdrawing from work, missing meetings with investors. He wants a connection, so he offers her $10,000 to spend three nights with him in Vegas, and she accepts with conditions: four hours per night of erotic play, and no penetration. During the days in Vegas, they get to know each other, have fun, meet a friend of hers; at night, at least after the first night, things seem to get complicated. Is mutual attraction stirring? Will they play by their rules? Can it be about more than money?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdkZTBjZmItNzYyMS00ZjhiLWJhN2EtZGZlOGJmZDRiNzg0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "35%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "44/100"
+        }
+      ],
+      "Metascore": "44",
+      "imdbRating": "5.8",
+      "imdbVotes": "4,426",
+      "imdbID": "tt0240402",
+      "Type": "movie",
+      "DVD": "18 Dec 2001",
+      "BoxOffice": "N/A",
+      "Production": "Artisan Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Justin Bieber: All Around the World",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "21 Jun 2012",
+      "Runtime": "60 min",
+      "Genre": "Documentary, Music",
+      "Director": "Russell Thomas, Dee Koppang O'Leary",
+      "Writer": "N/A",
+      "Actors": "Justin Bieber, Alfredo Flores",
+      "Plot": "The special will feature music performances and documentary footage as Justin Bieber embarks on his tour in support of his album Believe.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MDYwMjU3NF5BMl5BanBnXkFtZTcwMjcxNzc5Nw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "1.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "1.6",
+      "imdbVotes": "4,375",
+      "imdbID": "tt2180158",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Lost World",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "22 Jun 1925",
+      "Runtime": "106 min",
+      "Genre": "Adventure, Fantasy, Sci-Fi",
+      "Director": "Harry O. Hoyt",
+      "Writer": "Arthur Conan Doyle (based upon the 1912 novel by), Marion Fairfax (screenplay)",
+      "Actors": "Bessie Love, Lewis Stone, Wallace Beery, Lloyd Hughes",
+      "Plot": "Explorer Professor Challenger is taking quite a beating in the London press thanks to his claim that living dinosaurs exist in the far reaches of the Amazon. Newspaper reporter Edward Malone learns that this claim originates from a diary given to him by fellow explorer Maple White's daughter, Paula. Malone's paper funds an expedition to rescue Maple White, who has been marooned at the top of a high plateau. Joined by renowned hunter John Roxton, and others, the group goes to South America, where they do indeed find a plateau inhabited by pre-historic creatures, one of which they even manage to bring back to London with them.",
+      "Language": "N/A",
+      "Country": "USA",
+      "Awards": "1 win & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxMjNlNDItNTUzZC00YWZhLTgwNTAtZTExMzQ0Y2MwODM5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "4,294",
+      "imdbID": "tt0016039",
+      "Type": "movie",
+      "DVD": "21 May 1997",
+      "BoxOffice": "N/A",
+      "Production": "eRealBiz",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Secret World of Alex Mack",
+      "Year": "1994–1998",
+      "Rated": "TV-Y7",
+      "Released": "08 Oct 1994",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Drama, Family, Fantasy, Sci-Fi, Thriller",
+      "Director": "N/A",
+      "Writer": "Ken Lipman, Tommy Lynch",
+      "Actors": "Larisa Oleynik, Meredith Bishop, Darris Love, Michael Blakley",
+      "Plot": "A teenage girl, just starting junior high and living in a modern corporate community is accidentally contaminated by a secret chemical product of The Plant. She acquires mysterious abilities that allow her to change her shape, move objects with her mind, and zap people and objects with small electrical charges. The owners of The Plant continually seek to find out which of the local kids has been contaminated so they can experiment on her, but their employees are less than competent and the search is comedic and futile.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 12 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjAxODdhYTQtOGU5Ny00ZTM4LWFlZWEtZTY4N2YzNWM5NjJhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "4,279",
+      "imdbID": "tt0108921",
+      "Type": "series",
+      "totalSeasons": "4",
+      "Response": "True"
+    },
+    {
+      "Title": "A World Without Thieves",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "09 Dec 2004",
+      "Runtime": "113 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Xiaogang Feng",
+      "Writer": "Xiaogang Feng, Gang Wang, Benfu Zhao (novel)",
+      "Actors": "Andy Lau, Rene Liu, You Ge, Baoqiang Wang",
+      "Plot": "Two grifters, Wang Bo and Wang Li, a couple who've been arguing, board a train in rural China. He wants to fleece a peasant, nicknamed Dumbo for his naiveté, who's carrying 60,000 yuan and trusts everyone. She wants to protect the hick kid, an act of expiation brought on by prayer and a visit to a temple. Also on board are one of more sets of thieves, including a calculating boss and his femme fatale. The boss wants to recruit Wang Bo, and a series of contests ensue, with the potential of turning deadly. While Li guards Dumbo from Bo and the others, can she and Bo sort out their relationship? And can Dumbo's simple spirituality touch anyone else?",
+      "Language": "Mandarin",
+      "Country": "China, Hong Kong",
+      "Awards": "6 wins & 12 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTZlNzM4MGEtZmM2Ni00OTNjLTg5NWQtNTgyNzYxNzA4NDAwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "4,264",
+      "imdbID": "tt0439884",
+      "Type": "movie",
+      "DVD": "24 Jul 2007",
+      "BoxOffice": "N/A",
+      "Production": "Media Asia Distribution",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "My World",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "25 Oct 2013",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Ugur Yücel",
+      "Writer": "Ugras Günes, Can Yücel",
+      "Actors": "Beren Saat, Ugur Yücel, Ayça Bingöl, Turgay Kantürk",
+      "Plot": "At 2 Ela lost her ability of seeing and hearing because of a severe illness. And then she became a total disappointment of her family due to her untamed behaviors. But everything changed after an unorthodox teacher stepped into their lives to educate Ela while healing himself.",
+      "Language": "Turkish",
+      "Country": "Turkey",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwMGU5MjctNmM2NS00OGUxLWFhYjMtZTQ2NTM0MDgzNzNjXkEyXkFqcGdeQXVyMzEzNDY2OTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "4,219",
+      "imdbID": "tt3159564",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "UIP Türkiye",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Another World",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "01 Mar 2016",
+      "Runtime": "99 min",
+      "Genre": "Action, Horror, Sci-Fi",
+      "Director": "Eitan Reuven",
+      "Writer": "Shlomi Aviner, Michael Birinbaum, Eitan Reuven",
+      "Actors": "Larry Butchins, Zach Cohen, Susanne Gschwendtner, Davina Kevelson",
+      "Plot": "The movie is a post-apocalyptic horror/science fiction film. the setting is in a near post apocalyptic future where a biological warfare program goes wrong, and turns most of humanity to mindless, murderous creatures (hence forth - \"infected\"). There are five characters, which are still uninfected, trying to survive constant attacks by the infected. each one of them represents in some way a different aspect of human existence, a different world-view, but most important, a different moral view about the world and his/her place in it - The Colonel - A professional soldier. represents the political-military-economic establishment, which sees life as a constant violent struggle for power and resources. The Doctor - Represents a commitment to love, justice and non-violent struggle against all wrong. The Wizard - A young man, an inventor and an autodidact scientist, who looks at life as a puzzle to be solved. he strives to discover, understand and invent, with no thought as to the consequences. The Daughter - A simple girl with simple ambitions - sailing through life enjoying every comfort, while ignoring or unaware of bigger and more profound issues. The Mouser - A murderer and rapist, evil in the most banal aspect of the word. The plot takes place during their last six days. all along, as the characters evolve, they listen to a daily radio program dealing with the extinction of the dinosaurs, finding correlating themes to their own situation. as the protagonists move and try to survive, and as their world views and correlations to the situation are gradually reveled, the following themes are explored: the essence of evil, the boundaries of moral responsibility, species (and humankind) extinction, love, grace, euthanasia and more.",
+      "Language": "English",
+      "Country": "Israel",
+      "Awards": "3 wins.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMTA5Mjk1NF5BMl5BanBnXkFtZTgwNDkzNDY5NjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.0",
+      "imdbVotes": "4,199",
+      "imdbID": "tt1920846",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "World Record",
+      "Year": "2003",
+      "Rated": "N/A",
+      "Released": "03 Jun 2003",
+      "Runtime": "10 min",
+      "Genre": "Animation, Sci-Fi, Short",
+      "Director": "Takeshi Koike",
+      "Writer": "Yoshiaki Kawajiri",
+      "Actors": "Victor Williams, John Wesley, Alex Fernandez, Allison Smith",
+      "Plot": "Dan ran a 100 meters world record of just under 9 seconds, but was accused of using doping and found positive. Now he is back, and he is willing to give everything. Too much thinks his friend, who is concerned that Dan will injure himself by running too hard in the qualifiers. But something strange is going on with Dan, as machine agents are keeping a close eye on him. When the race is there, fate strikes as Dan muscles literally are severed, causing Dan to fall. But somehow he finds the strength to go on, passing his opponents, on his way to learn the truth.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5MTUwNTg5N15BMl5BanBnXkFtZTcwOTk0NDIyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "4,181",
+      "imdbID": "tt0368576",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mom and Dad Save the World",
+      "Year": "1992",
+      "Rated": "PG",
+      "Released": "24 Jul 1992",
+      "Runtime": "88 min",
+      "Genre": "Adventure, Comedy, Family, Sci-Fi",
+      "Director": "Greg Beeman",
+      "Writer": "Chris Matheson, Ed Solomon",
+      "Actors": "Teri Garr, Jeffrey Jones, Jon Lovitz, Thalmus Rasulala",
+      "Plot": "Emperor Tod Spengo sees Marge Nelson and using a giant magnet, kidnaps her and her husband Dick, hoping to make her his bride before blowing up the Earth. He and other inhabitants of his planet are somewhat less than bright, and Dick begins reliving episodes of Flash Gordon and Buck Rogers in order to rescue Marge, save the Earth, and restore the rightful king to the throne.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTIwMTY3MF5BMl5BanBnXkFtZTgwMDU0MTQ5MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "9%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.4",
+      "imdbVotes": "4,134",
+      "imdbID": "tt0104905",
+      "Type": "movie",
+      "DVD": "30 Aug 2005",
+      "BoxOffice": "N/A",
+      "Production": "HBO Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Wild World of Batwoman",
+      "Year": "1966",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "70 min",
+      "Genre": "Action, Comedy, Adventure, Sci-Fi",
+      "Director": "Jerry Warren",
+      "Writer": "Jerry Warren (original screenplay)",
+      "Actors": "Katherine Victor, George Mitchell, Steve Brodie, Richard Banks",
+      "Plot": "In this zero budget cheapie a busty Batwoman enlists her beauteous bevy of Batgirls (when they are not dancing the jerk) to help her regain a mad scientist's invention (an atom bomb made out of a hearing aid) before a costumed ne'er-do-well, Rat Fink, can glom onto it for his own purposes.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY0YThlYzItMTYzNy00MWM2LWFlNTctY2ViZTI1MzhhM2M3XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.1",
+      "imdbVotes": "4,134",
+      "imdbID": "tt0061191",
+      "Type": "movie",
+      "DVD": "10 Dec 2013",
+      "BoxOffice": "N/A",
+      "Production": "VCI Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Primeval: New World",
+      "Year": "2012–2013",
+      "Rated": "N/A",
+      "Released": "08 Jun 2013",
+      "Runtime": "42 min",
+      "Genre": "Action, Adventure, Drama, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Gillian Horvath, Garfield Reeves-Stevens, Judith Reeves-Stevens",
+      "Actors": "Niall Matter, Sara Canning, Danny Rahim, Yan-Kay Crystal Lowe",
+      "Plot": "A North American spin-off of the hit U.K. television series, PRIMEVAL: NEW WORLD follows a specialized team of animal experts and scientists that investigates the appearance of temporal anomalies and battles both prehistoric and futuristic creatures.",
+      "Language": "English",
+      "Country": "Canada, UK",
+      "Awards": "3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxNTAxMjg4N15BMl5BanBnXkFtZTgwOTMyODQxMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "4,112",
+      "imdbID": "tt2295953",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "One Piece: Strong World",
+      "Year": "2009",
+      "Rated": "TV-14",
+      "Released": "12 Dec 2009",
+      "Runtime": "113 min",
+      "Genre": "Animation, Action, Adventure, Fantasy",
+      "Director": "Munehisa Sakai",
+      "Writer": "Eiichiro Oda (story and characters), Eiichiro Oda (story), Hirohiko Uesaka (screenplay)",
+      "Actors": "Felecia Angelle, Bryan Baker, Jeff Banks, Christopher Bevins",
+      "Plot": "Its a normal day on the Thousand Sunny until Nami reads the newspaper to the rest of the crew about the East Blue being attacked. Luffy then decides that they will go back to the East Blue to help out. Seconds later a big floating ship passes over the Sunny and Nami wishes to warn them about a storm coming by. The captain, impressed by Nami's navigating skills, tricks the Straw Hats and kidnaps Nami. Will the crew be able to save her, or will she join the other crew instead?",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmI4YjlhMDQtMzZmOC00Nzk1LTlkNDAtMmFhMjQzMDNhNDZkXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "4,072",
+      "imdbID": "tt1485763",
+      "Type": "movie",
+      "DVD": "19 Nov 2013",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Attack on Titan II: End of the World",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "20 Oct 2015",
+      "Runtime": "87 min",
+      "Genre": "Action, Drama, Fantasy, Horror, Sci-Fi",
+      "Director": "Shinji Higuchi",
+      "Writer": "Hajime Isayama (manga), Tomohiro Machiyama (screenplay), Yûsuke Watanabe (screenplay)",
+      "Actors": "Haruma Miura, Hiroki Hasegawa, Kanata Hongô, Kiko Mizuhara",
+      "Plot": "A continuation of the ongoing battle between the Scouting Regiment and the Titans. As the battle continues to unravel, Eren Jäeger, a soldier fighting the Titans for vengeance, is finding out an incredible secret that'll leave the whole Scouting Regiment confused, but unsure on what to do and if it's really Eren. Will the Scouting Regiment realize what he is and will they be able to stop the Titans?",
+      "Language": "Japanese",
+      "Country": "Japan, Singapore",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU5ZThjMjgtOGExNi00ZmUzLWFiN2QtNTQ3YmYwN2ExNjU1XkEyXkFqcGdeQXVyNDQyNzIwNDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.8",
+      "imdbVotes": "4,029",
+      "imdbID": "tt4294052",
+      "Type": "movie",
+      "DVD": "06 Dec 2016",
+      "BoxOffice": "N/A",
+      "Production": "FUNimation Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Kevin (Probably) Saves the World",
+      "Year": "2017–2018",
+      "Rated": "TV-14",
+      "Released": "N/A",
+      "Runtime": "42 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "Tara Butters, Michele Fazekas",
+      "Actors": "Jason Ritter, JoAnna Garcia Swisher, Kimberly Hebert Gregory, India de Beaufort",
+      "Plot": "Kevin, a down-on-his-luck man, is tasked by God with a mission to save the world.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjU4OTk3Nl5BMl5BanBnXkFtZTgwNjgxMDkyMzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "4,017",
+      "imdbID": "tt6474174",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Center of My World",
+      "Year": "2016",
+      "Rated": "Unrated",
+      "Released": "10 Nov 2016",
+      "Runtime": "115 min",
+      "Genre": "Drama, Romance",
+      "Director": "Jakob M. Erwa",
+      "Writer": "Jakob M. Erwa (screenplay), Andreas Steinhöfel (based on the novel by)",
+      "Actors": "Bendix Hansen, Sarah Fuhrer, Louis Hofmann, Sabine Timoteo",
+      "Plot": "After a summer spent with his his best friend Kat to escape his family, Phil goes back to school and starts to question his feelings towards Nicholas, a new classmate.",
+      "Language": "German, English",
+      "Country": "Germany, Austria",
+      "Awards": "4 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg3ZWZiMGEtZmNkYS00MDdmLThjOTAtMTA3MzEyZmNiMjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "3,961",
+      "imdbID": "tt4932154",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "In This World",
+      "Year": "2002",
+      "Rated": "R",
+      "Released": "28 Mar 2003",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Michael Winterbottom",
+      "Writer": "Tony Grisoni",
+      "Actors": "Jamal Udin Torabi, Enayatullah, Imran Paracha, Hiddayatullah",
+      "Plot": "In February 2002 in the Shamshatoo Refugee Camp in the North West Frontier Province in Pakistan, there are 53,000 refugees living in sub-human conditions since 1979 with the Soviet Union invasion and 2001 with the USA bombing and invasion of Afghanistan. The family of the Afghan Enayat and his cousin Jamal decides to send them illegally to London to have a better life. They hire coyotes to smuggle the cousins through Iran and Turkey to Italy and finally London hidden inside trucks and containers. However, the long journey locked in a container with other families poses a terrible challenge to the boys.",
+      "Language": "Pushto, Persian, English, Turkish",
+      "Country": "UK",
+      "Awards": "Won 1 BAFTA Film Award. Another 6 wins & 8 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUwOTUxNTU2OF5BMl5BanBnXkFtZTcwMjUzNTAwMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.4",
+      "imdbVotes": "3,919",
+      "imdbID": "tt0310154",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The World of Kanako",
+      "Year": "2014",
+      "Rated": "Not Rated",
+      "Released": "04 Dec 2015",
+      "Runtime": "118 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Tetsuya Nakashima",
+      "Writer": "Akio Fukamachi (based on the novel by), Tetsuya Nakashima (screenplay), Miako Tadano (screenplay), Nobuhiro Monma (screenplay)",
+      "Actors": "Kôji Yakusho, Nana Komatsu, Satoshi Tsumabuki, Hiroya Shimizu",
+      "Plot": "Kanako, a beautiful girl and one of the best students at school, goes missing with all the belongings left behind in her room. Her father Akikazu is now asked by his ex-wife to look for their daughter. He starts a desperate search of Kanako using any means, in the hope of getting his \"ideal\" family back in place despite the fact that the very reason of the family breakup was because of his problematic personality and behaviors. Following tracks of her past and present and talking to her \"friends,\" he starts to get to know his daughter whom he never knew or didn't even attempt to know. When Akikazu is led to one clue, he realizes the world Kanako was facing beyond his imagination... Can the father find his daughter, and get back his perfect happy family he has dreamed of after all these years?",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "3 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDQ5ODQ2OV5BMl5BanBnXkFtZTgwMDYxOTQxNzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ],
+      "Metascore": "55",
+      "imdbRating": "6.6",
+      "imdbVotes": "3,843",
+      "imdbID": "tt3108158",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Map of the World",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "21 Jan 2000",
+      "Runtime": "125 min",
+      "Genre": "Drama",
+      "Director": "Scott Elliott",
+      "Writer": "Jane Hamilton (novel), Peter Hedges (screenplay), Polly Platt (screenplay)",
+      "Actors": "Sigourney Weaver, Dara Perlmutter, David Strathairn, Kayla Perlmutter",
+      "Plot": "School nurse Alice Goodwin lives with her husband and two daughters on a dairy farm in a small Wisconsin community. After an accident on her property involving a friend's child, the town turns against her and Alice finds herself fighting charges of child abuse.",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Nominated for 1 Golden Globe. Another 3 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg1Y2FkZjUtNWUyZC00MjVjLThjNjItOTE1NWExOWJmNjU1XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "65%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "6.7",
+      "imdbVotes": "3,819",
+      "imdbID": "tt0160513",
+      "Type": "movie",
+      "DVD": "26 Sep 2000",
+      "BoxOffice": "N/A",
+      "Production": "Overseas Filmgroup",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Konosuba: God's Blessing on This Wonderful World!",
+      "Year": "2016–",
+      "Rated": "TV-14",
+      "Released": "12 Jan 2016",
+      "Runtime": "24 min",
+      "Genre": "Animation, Adventure, Comedy, Fantasy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jun Fukushima, Sora Amamiya, Rie Takahashi, Ai Kayano",
+      "Plot": "Kazuma Satou, a high school student, gamer and shut-in, died on an average day walking home from school, performing the one heroic act of his life. He reawakens in the afterlife, greeted by a beautiful but rude girl named Aqua, who claims to be a goddess that guides the youth whose lives got cut short. Aqua then offers him a choice: to go to heaven, or to get sent to a another world to defeat the Demon King. Of course, Kazuma's gamer instincts kick in, and he chooses to start a new life in a real-life RPG. There's one last choice Kazuma has to make: he is allowed the choice of one thing to take with him to the new world. After puzzling over it, he chooses...Aqua? Join Kazuma on his adventures as he tries to transfer his virtual gaming knowledge to real-life adventurer experience!",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNiOWM5NGItNzY4NC00MDg1LTljZjctYzViNmRlOTNhOWM2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "3,782",
+      "imdbID": "tt5370118",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "The Cheetah Girls: One World",
+      "Year": "2008",
+      "Rated": "TV-G",
+      "Released": "22 Aug 2008",
+      "Runtime": "90 min",
+      "Genre": "Comedy, Drama, Family, Musical",
+      "Director": "Paul Hoen",
+      "Writer": "Dan Berendsen (story by), Dan Berendsen (teleplay by), Nisha Ganatra (teleplay by), Deborah Gregory (series of books), Jen Small (teleplay by)",
+      "Actors": "Adrienne Houghton, Sabrina Bryan, Kiely Williams, Roshan Seth",
+      "Plot": "In this \"trequel\" to The Cheetah Girls, Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie. Will the Cheetah's break up again? This film stars the basic cast from The Cheetah Girls 2, excluding Raven-Symone's character Galleria Garibaldi.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTNhMDUzMzktM2E0NC00N2Y1LWJlY2UtOTE0NTFkM2MwMDQxXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.6",
+      "imdbVotes": "3,742",
+      "imdbID": "tt1013542",
+      "Type": "movie",
+      "DVD": "16 Dec 2008",
+      "BoxOffice": "N/A",
+      "Production": "Khussro Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bobby's World",
+      "Year": "1990–1998",
+      "Rated": "TV-Y",
+      "Released": "08 Sep 1990",
+      "Runtime": "30 min",
+      "Genre": "Animation, Short, Adventure, Comedy, Family",
+      "Director": "N/A",
+      "Writer": "Howie Mandel, Jim Staahl, Jim Fisher",
+      "Actors": "Howie Mandel, Gail Matthius, Kevin Smets, Charity James",
+      "Plot": "A boy named Bobby Generic creates adventures using his overactive imagination.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "4 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3ODA5ODc0MV5BMl5BanBnXkFtZTcwMDM4MjYyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "3,741",
+      "imdbID": "tt0103373",
+      "Type": "series",
+      "totalSeasons": "7",
+      "Response": "True"
+    },
+    {
+      "Title": "The Real World",
+      "Year": "1992–",
+      "Rated": "TV-14",
+      "Released": "N/A",
+      "Runtime": "30 min",
+      "Genre": "Drama, Reality-TV",
+      "Director": "N/A",
+      "Writer": "Jonathan Murray, Mary-Ellis Bunim",
+      "Actors": "Janelle Casanave, Alton Williams II, Arissa Hill, Brynn Smith",
+      "Plot": "Each season, series producers choose a diverse group of seven to eight people in their late teens to mid-20s to live together in a major city. The series presents their spontaneous, unscripted interactions with one another and the world around them, focusing on a different group and city each season.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Primetime Emmy. Another 3 wins & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTIxODE1Nl5BMl5BanBnXkFtZTYwNTA5OTc4._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "3,679",
+      "imdbID": "tt0103520",
+      "Type": "series",
+      "totalSeasons": "32",
+      "Response": "True"
+    },
+    {
+      "Title": "The Little World of Don Camillo",
+      "Year": "1952",
+      "Rated": "N/A",
+      "Released": "13 Jan 1953",
+      "Runtime": "107 min",
+      "Genre": "Comedy",
+      "Director": "Julien Duvivier",
+      "Writer": "Giovanni Guareschi (novel), Julien Duvivier, René Barjavel",
+      "Actors": "Fernandel, Gino Cervi, Vera Talchi, Franco Interlenghi",
+      "Plot": "In a village of the Po valley where the earth is hard and life miserly, the priest and the communist mayor are always fighting to be the head of the community. If in secret, they admired and liked each other, politics still divided them as it is dividing the country. And when the mayor wants his \"People's House\"; the priest wants his \"Garden City\" for the poor. Division exist between the richest and the poorest, the pious and the atheists and even between lovers. But if the people are as hard as the country, they are good in the bottom of their heart.",
+      "Language": "Latin, Italian",
+      "Country": "Italy, France",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU2OGFkM2UtNTdiYS00MjA0LWI4Y2EtM2IyZGQyZjI4ZWEyXkEyXkFqcGdeQXVyMDI3OTIzOA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "3,671",
+      "imdbID": "tt0043918",
+      "Type": "movie",
+      "DVD": "08 Jul 2008",
+      "BoxOffice": "N/A",
+      "Production": "I.F.E. Releasing Corporation",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Forbidden World",
+      "Year": "1982",
+      "Rated": "R",
+      "Released": "07 May 1982",
+      "Runtime": "77 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Allan Holzman",
+      "Writer": "Tim Curnen (screenplay), Jim Wynorski (story), R.J. Robertson (story)",
+      "Actors": "Jesse Vint, Dawn Dunlap, June Chadwick, Linden Chiles",
+      "Plot": "On planet Xarbia, an experimental life form, Subject 20, has been created by an elite group of researchers in hopes of preventing a galactic food crisis. However, when Subject 20 becomes deadly, the best troubleshooter in the Galaxy is called in to investigate.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkOGE4OTQtODM0YS00MzQ5LTk0MTAtNjUxM2MxNWJhYmYyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "3,598",
+      "imdbID": "tt0083959",
+      "Type": "movie",
+      "DVD": "20 Jul 2010",
+      "BoxOffice": "N/A",
+      "Production": "New World Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
