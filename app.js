@@ -11,7 +11,7 @@ var moviesRouter = require('./src/routes/movies');
 var app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, '/src/views'));
 app.set('view engine', 'jade');
 
 app.use(logger('dev'));
@@ -38,6 +38,8 @@ app.use(function(err, req, res, next) {
   // render the error page
   res.status(err.status || 500);
   res.render('error');
+  console.log(err.stack)
+
 });
 
 module.exports = app;

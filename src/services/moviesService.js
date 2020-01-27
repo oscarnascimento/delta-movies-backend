@@ -16,13 +16,8 @@ exports.getByTitle = title => {
 
 exports.getByImdbId = imdbId => {
     return repository.getByImdbId(imdbId);
-}
+};
 
-/**
- *
- * @param movies
- * @returns movies
- */
 exports.tranformMovieGenresToList = movies => {
     return movies.map(item => {
         const newGenre = item.Genre.replace(/\s/g, "").split(',');
@@ -33,16 +28,25 @@ exports.tranformMovieGenresToList = movies => {
 
 exports.getUniqueGenres = movies => {
 
-    const genres = movies.map(item => {
-        return item.Genre;
-    });
-    const allGenresString = genres.join().replace(/ /g,'');
+    let genres = movies.genres;
+    let allGenresString = '';
+
+    if (typeof genres === 'string') {
+        genres = movies.map(item => {
+            return item.Genre;
+        });
+        allGenresString = genres.join().replace(/ /g,'');
+    }
+
     const allGenresArray = allGenresString.split(',');
 
-    return _.uniq(allGenresArray)
+    return _.uniq(allGenresArray);
 };
 
-exports.groupMoviesByGenres = (movies, genres) => {
+exports.groupMoviesByGenres = (moviess, genres) => {
+
+    const movies = _.clone(moviess);
+
     const genresCategories = genres.map( genre => {
          const moviesOfGenre = movies.map( movie => {
                const isGenreMatched =  movie.Genre.filter( genreItem => genreItem == genre);

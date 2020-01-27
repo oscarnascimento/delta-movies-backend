@@ -1,16 +1,14 @@
 'use strict';
 
-const fs = require('fs');
-const path = require('path');
+const _ = require('lodash');
 
-let rawdata = fs.readFileSync(path.resolve(__dirname, '../data/movies.json'));
-const data =  JSON.parse(rawdata);
-const movies = data["movies"];
+const db = require('../data/db');
 
 exports.getByTitle = value => {
+    const movies = db.getMovies();
     return movies.filter(item => item['Title'].toLowerCase().search(value.toLowerCase()) > -1);
 };
 
 exports.getByImdbId = value => {
-    return movies.find(item => item['imdbID'].toLowerCase().search(value.toLowerCase()) > -1);
+    return moviesData.find(item => item['imdbID'].toLowerCase().search(value.toLowerCase()) > -1);
 };
